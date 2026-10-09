@@ -261,5 +261,534 @@
         "summary": "Raticate is a large, rodent-like Pokémon. Although it is often depicted on its hind legs, it is a quadruped. It is primarily tawny-colored with a cream underside. It has narrow black eyes, ears with ragged edges and dark insides, and large incisors that grow constantly. There are three whiskers on each side of its face, . It has short arms with three-fingered hands and webbed feet with three toes.", 
         "evolutions": [],
         "devolutions": ["Rattata"]
+    },
+
+    {
+        "name": "Spearow", 
+        "number": 21,
+        "type": ["normal", "flying"],
+        "abilities": ["Keen Eye", "Sniper"],
+        "height": 0.3,
+        "weight": 2.0,
+        "summary": "Spearow is an avian Pokémon that is very small. It has rough, brown plumage on its head and three brown tail feathers. It has narrow, dark brown eyes with white pupils and a short, hooked beak that is light pink. The feathers covering its wings are pinkish-red with lighter tips, and it has a beige underside with two thin, horizontal stripes. Its light pink feet have two toes in front and one in the back. Black feathers cover its back.", 
+        "evolutions": ["Fearow"],
+        "devolutions": []
+    },
+
+    {
+        "name": "Fearow", 
+        "number": 22,
+        "type": ["normal", "flying"],
+        "abilities": ["Keen Eye", "Sniper"],
+        "height": 1.2,
+        "weight": 38.0,
+        "summary": "Fearow is a large, mostly brown avian Pokémon with a vulturine neck and broad, powerful wings. It has a long, pointed, pink beak and a decorative red coxcomb on top of its head. Its narrow eyes have very small pupils and do not appear to have colored irises. It has shaggy feathers at the base of its neck and covering the upper portion of its wings.", 
+        "evolutions": [],
+        "devolutions": ["Spearow"]
+    },
+
+    {
+        "name": "Ekans", 
+        "number": 23,
+        "type": ["poison"],
+        "abilities": ["Intimidate", "Shed Skin"],
+        "height": 2.0,
+        "weight": 6.9,
+        "summary": "Ekans is a purple, serpentine Pokémon. Its eyes, underbelly, the thick stripe around its neck, and the rattle are yellow. Ekans have three pairs of black lines encircling their body, and another line connects to each slit-pupil eye and curves toward its nose. Its large mouth has a round, pink tongue and no visible teeth. While painful, a newborn Ekans's bite is not venomous. This Pokémon grows longer with age.", 
+        "evolutions": ["Arbok"],
+        "devolutions": []
+    },
+
+    {
+        "name": "Arbok", 
+        "number": 24,
+        "type": ["poison"],
+        "abilities": ["Intimidate", "Shed Skin"],
+        "height": 3.5,
+        "weight": 65.0,
+        "summary": "Arbok is a serpentine Pokémon that resembles a cobra. It has narrow eyes and several sharp teeth. Just below its head is a large hood with a face-like pattern. This pattern has over 20 possible variations. The pattern typically has two red and yellow eyespots outlined in black, a wide black streak resembling an upturned mouth, and a black V-shaped stripe above the eyespots.", 
+        "evolutions": [],
+        "devolutions": ["Ekans"]
+    },
+
+    {
+        "name": "Pikachu", 
+        "number": 25,
+        "type": ["electric"],
+        "abilities": ["Static", "Lightning Rod"],
+        "height": 0.4,
+        "weight": 6.0,
+        "summary": "Pikachu is a short, chubby rodent Pokémon. It is covered in yellow fur with two horizontal brown stripes on its back. It has a small mouth, long, pointed ears with black tips, and brown eyes. Each cheek is a red circle that contains a pouch for electricity storage. It has short forearms with five fingers on each paw, and its feet each have three toes. At the base of its lightning bolt-shaped tail is a patch of brown fur.", 
+        "evolutions": ["Raichu"],
+        "devolutions": []
+    },
+
+    {
+        "name": "Raichu", 
+        "number": 26,
+        "type": ["electric"],
+        "abilities": ["Static", "Lightning Rod"],
+        "height": 0.8,
+        "weight": 30.0,
+        "summary": "Raichu is a bipedal, rodent-like Pokémon. Even though it's classified as bipedal, Raichu usually gets around on all fours. It is covered in brown/dark orange fur and has a white belly. Its bifurcated ears are brown on the outside, yellow on the insides, and end in a distinctive curl. There is a circular yellow marking on each cheek where its electric sacs are, and it has a triangular, dark brown nose. Its arms and feet have patches of brown fur at the end, and the soles of its long feet are tan with a circular orange pad in the center.", 
+        "evolutions": [],
+        "devolutions": ["Pikachu"]
+    },
+
+    {
+        "name": "Sandshrew", 
+        "number": 27,
+        "type": ["ground"],
+        "abilities": ["Sand Veil", "Sand Rush"],
+        "height": 0.6,
+        "weight": 12.0,
+        "summary": "Sandshrew is a bipedal pholidote Pokémon (though it runs on all fours in Pokémon the Series)[1]. Its brick-patterned yellow hide is dry and tough, blends in with desert sand, and protects its soft white underbelly and muzzle. Sandshrew has blue, almond-shaped eyes, a pointed snout, and triangular ears with white insides. Its tail is thick and conical. It has two long claws on each foot and three sharp claws on its forepaws, which are used to burrow.", 
+        "evolutions": ["Sandslash"],
+        "devolutions": []
+    },
+
+    {
+        "name": "Sandslash", 
+        "number": 28,
+        "type": ["ground"],
+        "abilities": ["Sand Veil", "Sand Rush"],
+        "height": 1.0,
+        "weight": 29.5,
+        "summary": "Sandslash is a bipedal, ground-dwelling pholidote Pokémon. Although Sandslash is usually bipedal, it can run on all fours. Most of its body is yellow with a white underbelly. It has a narrow muzzle, almond-shaped blue eyes, and a thick tail. Its back is mostly covered in sharp, brown quills from its tough, dry hide. It has two large claws on its paws and feet. These claws are its primary weapons and are used for slashing, but can also be used for burrowing.", 
+        "evolutions": [],
+        "devolutions": ["Sandshrew"]
+    },
+
+    {
+        "name": "Nidoran♀", 
+        "number": 29,
+        "type": ["poison"],
+        "abilities": ["Poison Point", "Rivalry", "Hustle"],
+        "height": 0.4,
+        "weight": 7.0,
+        "summary": "Nidoran♀ is a small, quadrupedal, mammalian Pokémon. It has large, spiny ears, oversized front teeth, red eyes, and whiskers on each cheek. It is light blue with several darker blue spots. There are two white claws on each of its paws. Its back is covered with small toxic spines, and it has a small forehead horn.", 
+        "evolutions": ["Nidorina", "Nidoqueen"],
+        "devolutions": []
+    },
+
+    {
+        "name": "Nidorina", 
+        "number": 30,
+        "type": ["poison"],
+        "abilities": ["Poison Point", "Rivalry", "Hustle"],
+        "height": 0.8,
+        "weight": 20.0,
+        "summary": "Nidorina is a quadrupedal, sky-blue mammalian Pokémon with dark-blue patches. It has red eyes, large, spiny ears, and two pointed teeth protruding from its upper jaw. It possesses large poison spikes, which it retracts whenever it is with a group, feeding its children, or resting in its burrow. Its paws have three claws each, and it is able to stand on its hind legs. The hind legs are longer and thicker than its forelegs. It has a stubby tail. Nidorina is a female-only species.", 
+        "evolutions": ["Nidoqueen"],
+        "devolutions": ["Nidoran♀"]
+    },
+
+    {
+        "name": "Nidoqueen", 
+        "number": 31,
+        "type": ["poison", "ground"],
+        "abilities": ["Poison Point", "Rivalry", "Sheer Force"],
+        "height": 1.3,
+        "weight": 60.0,
+        "summary": "Nidoqueen is a large, bipedal blue mammalian Pokémon with distinct reptilian features. Its body is encased with extremely hard scales that serve as excellent protection from any attack and stand up when Nidoqueen is excited or provoked. It has a blunt snout, narrow brown eyes, and large ears with brown insides. There is a small horn on its forehead, a single spine on each ear, and a line of toxic spikes running down its back. Each hand has three short claws, and each foot has two claws. Its lower jaw, lower body markings, and two plates on its chest are cream-colored. It has a thick, powerful tail.", 
+        "evolutions": [],
+        "devolutions": ["Nidoran♀", "Nidorina"]
+    },
+
+    {
+        "name": "Nidoran♂", 
+        "number": 32,
+        "type": ["poison"],
+        "abilities": ["Poison Point", "Rivalry", "Hustle"],
+        "height": 0.5,
+        "weight": 9.0,
+        "summary": "Nidoran♂ is a small, quadrupedal, mammalian Pokémon. It is pinkish purple with darker patches. It has large, spiny ears with teal insides, oversized front teeth, and red eyes. Its back is covered with three lines of large spines that can release potent poisons if threatened. The center line of spines is taller than the other two. The size of the long, pointed horn on its forehead is indicative of the strength of its venom. Nidoran♂ is a male-only species.", 
+        "evolutions": ["Nidorino", "Nidoking"],
+        "devolutions": []
+    },
+
+    {
+        "name": "Nidorino", 
+        "number": 33,
+        "type": ["poison"],
+        "abilities": ["Poison Point", "Rivalry", "Hustle"],
+        "height": 0.9,
+        "weight": 19.5,
+        "summary": "Nidorino is a light-purple, quadrupedal mammalian Pokémon. It has several darker purple patches across its body. It has large, spiny ears with teal insides, narrow black eyes, and a long snout with two pointed teeth protruding from the upper jaw. Nidorino has a ridge of toxic spines on its back and a long, pointed horn on its forehead. The horn is harder than a diamond and can secrete poison on impact. The more adrenaline Nidorino has in its body, the more potent the poison is. Its short legs have three claws on each foot. Nidorino is a male-only species.", 
+        "evolutions": ["Nidoking"],
+        "devolutions": ["Nidoran♂"]
+    },
+
+    {
+        "name": "Nidoking", 
+        "number": 34,
+        "type": ["poison", "ground"],
+        "abilities": ["Poison Point", "Rivalry", "Sheer Force"],
+        "height": 1.4,
+        "weight": 62.0,
+        "summary": "Nidoking is a large, bipedal, purple mammalian Pokémon with distinct reptilian features. It has narrow eyes, large, spiny ears, fur-like tufts on its cheeks, and a short snout filled with pointed teeth. A long, venomous horn is on its forehead and a ridge of spines down its back. Gray plates cover its chest and belly, with a gray, rounded spine on each elbow. Each hand has three claws, while each foot has only a single hoof-like nail. It has a long, powerful tail. Nidoking is a male-only species.", 
+        "evolutions": [],
+        "devolutions": ["Nidoran♂", "Nidorino"]
+    },
+
+    {
+        "name": "Nidoking", 
+        "number": 34,
+        "type": ["poison", "ground"],
+        "abilities": ["Poison Point", "Rivalry", "Sheer Force"],
+        "height": 1.4,
+        "weight": 62.0,
+        "summary": "Nidoking is a large, bipedal, purple mammalian Pokémon with distinct reptilian features. It has narrow eyes, large, spiny ears, fur-like tufts on its cheeks, and a short snout filled with pointed teeth. A long, venomous horn is on its forehead and a ridge of spines down its back. Gray plates cover its chest and belly, with a gray, rounded spine on each elbow. Each hand has three claws, while each foot has only a single hoof-like nail. It has a long, powerful tail. Nidoking is a male-only species.", 
+        "evolutions": [],
+        "devolutions": ["Nidoran♂", "Nidorino"]
+    },
+
+    {
+        "name": "Clefairy", 
+        "number": 35,
+        "type": ["fairy"],
+        "abilities": ["Cute Charm", "Magic Guard", "Friend Guard"],
+        "height": 0.6,
+        "weight": 7.5,
+        "summary": "Clefairy is a bipedal, pink Pokémon with a chubby, vaguely star-shaped body. A small, pointed tooth protrudes from the upper left corner of its mouth. It has wrinkles beside its black, oval eyes, a single dark pink oval marking on each cheek, and large, pointed ears with brown tips. A tuft of fur curls over its forehead, much like its large, upward-curling tail. Each stocky arm has two small claws and a thumb on each hand, and both feet have a single toenail. There is a pair of tiny, butterfly-shaped wings on its back. Though incapable of flight, Clefairy's wings can store moonlight and allow it to float.", 
+        "evolutions": ["Clefable"],
+        "devolutions": []
+    },
+
+    {
+        "name": "Clefable", 
+        "number": 36,
+        "type": ["fairy"],
+        "abilities": ["Cute Charm", "Magic Guard", "Unaware"],
+        "height": 1.3,
+        "weight": 40.0,
+        "summary": "Clefable is a tall, pink Pokémon with a vaguely star-shaped body. It has long, pointed ears with dark brown tips and black, oval eyes with wrinkles on either side. A curled lock of fur hangs over its forehead, much like its long, tightly curled tail. On its back is a pair of dark pink wings; each wing has three points. Its hands have three fingers each, and its feet have two clawed toes and dark pink soles.", 
+        "evolutions": [],
+        "devolutions": ["Clefairy"]
+    },
+
+    {
+        "name": "Vulpix", 
+        "number": 37,
+        "type": ["fire"],
+        "abilities": ["Flash Fire", "Drought"],
+        "height": 0.6,
+        "weight": 9.9,
+        "summary": "Vulpix is a small, quadrupedal, canine Pokémon. It has a red-brown pelt with a cream-colored underbelly. It has brown eyes, large, pointed ears with dark brown insides, and a triangular dark brown nose. Its paws are slightly darker than the rest of its pelt and have light brown paw pads. On top of its head are three curled locks of orange fur with bangs, and it has orange tails with curled tips. It is most commonly seen with six tails.", 
+        "evolutions": ["Ninetails"],
+        "devolutions": []
+    },
+
+    {
+        "name": "Ninetails", 
+        "number": 38,
+        "type": ["fire"],
+        "abilities": ["Flash Fire", "Drought"],
+        "height": 1.1,
+        "weight": 19.9,
+        "summary": "Ninetales is a quadrupedal canine Pokémon covered in thick, luxurious golden-white fur. It has a small mane of thicker fur around its neck and a long, fluffy crest atop its head. It has slender legs with three-toed paws and nine long tails with pale orange tips. It has red eyes, pointed ears, and a triangular black nose.", 
+        "evolutions": [],
+        "devolutions": ["Vulpix"]
+    },
+
+    {
+        "name": "Jigglypuff", 
+        "number": 39,
+        "type": ["normal", "fairy"],
+        "abilities": ["Cute Charm", "Competitive", "Friend Guard"],
+        "height": 0.5,
+        "weight": 5.5,
+        "summary": "Jigglypuff is a pink Pokémon with a spherical body. It has pointed ears with black insides and large, blue eyes. It has small, stubby arms and slightly longer feet. On top of its head is a curled tuft of fur. Its body is filled with air, and, as seen in Pokémon Stadium, Jigglypuff can deflate until it is flat. It can float by drawing extra air into its body.", 
+        "evolutions": ["Wigglytuff"],
+        "devolutions": []
+    },
+
+    {
+        "name": "Wigglytuff", 
+        "number": 40,
+        "type": ["normal", "fairy"],
+        "abilities": ["Cute Charm", "Competitive", "Frisk"],
+        "height": 1.0,
+        "weight": 12.0,
+        "summary": "Wigglytuff is a balloon-like Pokémon with leporine features, a bean-shaped body and stubby arms and legs. A fluffy, curled tuft of fur on its head is described as perfectly heavenly. It has long, rabbit-like ears with black insides and a slightly lighter color at the tips. Its large, blue eyes are covered in tears that quickly wash away debris. It is covered in pink fur with a white belly. This fine layer of fur is so soft that those who touch it, including other Wigglytuff, will not want to stop. As a result, Wigglytuff is a highly sought-after Pokémon because of its bouncy body and fur. It sheds seasonally, and people gather the fur to spin into yarn. It is proud of its fine and delicate fur.", 
+        "evolutions": [],
+        "devolutions": ["Jigglypuff"]
+    },
+
+    {
+        "name": "Zubat", 
+        "number": 41,
+        "type": ["poison", "flying"],
+        "abilities": ["Inner Focus", "Infiltrator"],
+        "height": 0.8,
+        "weight": 7.5,
+        "summary": "Zubat is a blue, chiropteran Pokémon. While it lacks eyes, it has pointed ears with purple insides and a mouth with two sharp teeth on each jaw. A male will have larger fangs than a female. It has purple wing membranes supported by two elongated fingers and two long, thin legs without feet.", 
+        "evolutions": ["Golbat"],
+        "devolutions": []
+    },
+
+    {
+        "name": "Golbat", 
+        "number": 42,
+        "type": ["poison", "flying"],
+        "abilities": ["Inner Focus", "Infiltrator"],
+        "height": 1.6,
+        "weight": 55.0,
+        "summary": "Golbat is a large, blue, chiropteran Pokémon with purple wing membranes. It has small eyes with slit-like pupils, along with tiny triangular ears with purple insides, and a massive mouth with two fangs in each jaw. The fangs are smaller on a female Golbat. While its mouth seems to be otherwise empty, Golbat occasionally displays a long, purple tongue. It has short legs with long, tiny feet. Despite this, Golbat can walk skillfully on the ground.", 
+        "evolutions": [],
+        "devolutions": ["Zubat"]
+    },
+
+    {
+        "name": "Oddish", 
+        "number": 43,
+        "type": ["grass", "poison"],
+        "abilities": ["Chlorophyll", "Run Away"],
+        "height": 0.5,
+        "weight": 5.4,
+        "summary": "Oddish is a Pokémon that resembles a blue plant bulb or a root vegetable. It has a round body, beady red eyes, a small mouth, and ovoid feet. Five large, green leaves sprout from its head.", 
+        "evolutions": ["Gloom", "Vileplume"],
+        "devolutions": []
+    },
+
+    {
+        "name": "Gloom", 
+        "number": 44,
+        "type": ["grass", "poison"],
+        "abilities": ["Chlorophyll", "Stench"],
+        "height": 0.8,
+        "weight": 8.6,
+        "summary": "Gloom is a blue, bipedal Rafflesia-like Pokémon with rudimentary hands and feet. On its head is a flower with spherical petals surrounded by four reddish-brown leaves. The petals are a dark reddish-brown and have white spots. A female displays a single large spot on each petal, while a male will have many smaller spots. Gloom's eyes are wide and often appear closed and its lips are thin and purple.", 
+        "evolutions": ["Vileplume"],
+        "devolutions": ["Oddish"]
+    },
+
+    {
+        "name": "Vileplume", 
+        "number": 45,
+        "type": ["grass", "poison"],
+        "abilities": ["Chlorophyll", "Effect Spore"],
+        "height": 1.2,
+        "weight": 18.6,
+        "summary": "Vileplume is an indigo, bipedal Rafflesia-like Pokémon with rudimentary hands and feet. It has beady red eyes and a small mouth, and its head and torso are a single joined segment. On its head is a massive red flower with five bulky petals and an orange-brown center. Vileplume's flower is said to have the largest petals in the world and is almost too heavy for the Pokémon itself to support. The rounded petals of the flower are red and covered with white spots. A female Vileplume has fewer, but larger, spots on its petals. When defeated in the side series games, Vileplume's body appears to either deflate or withers while the flower remains.", 
+        "evolutions": [],
+        "devolutions": ["Oddish", "Gloom"]
+    },
+
+    {
+        "name": "Paras", 
+        "number": 46,
+        "type": ["bug", "grass"],
+        "abilities": ["Effect Spore", "Dry Skin", "Damp"],
+        "height": 0.3,
+        "weight": 5.4,
+        "summary": "Paras is a red-orange, insectoid Pokémon that resembles the nymph stage of a cicada. Its ovoid body is segmented, and it has three pairs of legs. The foremost pair of legs is the largest and has sharp claws at the tips. There are five specks on its forehead and three teeth on either side of its mouth. It has circular eyes with large pseudopupils.", 
+        "evolutions": ["Parasect"],
+        "devolutions": []
+    },
+
+    {
+        "name": "Parasect", 
+        "number": 47,
+        "type": ["bug", "grass"],
+        "abilities": ["Effect Spore", "Dry Skin", "Damp"],
+        "height": 1.0,
+        "weight": 29.5,
+        "summary": "Parasect is a red-orange, insectoid Pokémon that has been completely overtaken by the parasitic mushroom on its back. It has a small head with pure white eyes and a segmented body that is mostly hidden by the mushroom. It has three pairs of legs with the foremost pair forming large pincers. The fungus growing on its back has a large red cap with yellow spots throughout.", 
+        "evolutions": [],
+        "devolutions": ["Paras"]
+    },
+
+    {
+        "name": "Venonat", 
+        "number": 48,
+        "type": ["bug", "poison"],
+        "abilities": ["Compound Eyes", "Tinted Lens", "Run Away"],
+        "height": 1.0,
+        "weight": 30.0,
+        "summary": "Venonat is an insect Pokémon with a spherical body covered in purple fur. The fur releases a toxic liquid and it spreads when shaken violently off their bodies. A pink pincer-like mouth with two teeth, stubby forepaws, and a pair of two-toed feet are visible through its fur. Its limbs are light tan. There is also a pair of white antennae sprouting from the top of its head. However, the most prominent feature on its face are its large, red compound eyes. Venonat's highly developed eyes act as radar units and can shoot powerful beams.", 
+        "evolutions": ["Venomoth"],
+        "devolutions": []
+    },
+
+    {
+        "name": "Venomoth", 
+        "number": 49,
+        "type": ["bug", "poison"],
+        "abilities": ["Shield Dust", "Tinted Lens", "Wonder Skin"],
+        "height": 1.5,
+        "weight": 12.5,
+        "summary": "Venomoth is a lepidopteran insect Pokémon whose body is varying shades of purple. Its head and thorax are both light purple, and it has bulbous, round, light blue eyes, a small mandible, and a three-point crest on its head. Tucked close to its thorax are three pairs of tiny, whitish legs. Its abdomen is paler with several black, zigzagging stripes encircling it. It has two pairs of pale purple moth-like wings with thin black venation.", 
+        "evolutions": [],
+        "devolutions": ["Venonat"]
+    },
+
+    {
+        "name": "Diglett", 
+        "number": 50,
+        "type": ["ground"],
+        "abilities": ["Sand Veil", "Arena Trap", "Sand Force"],
+        "height": 0.2,
+        "weight": 0.8,
+        "summary": "Diglett is a tiny, brown Pokémon that seems to be perpetually buried within the earth, leaving only its head visible. Its small stature makes it both the lightest and shortest Ground-type. It has beady black eyes and a large, round, pink nose.", 
+        "evolutions": ["Dugtrio"],
+        "devolutions": []
+    },
+
+    {
+        "name": "Dugtrio", 
+        "number": 51,
+        "type": ["ground"],
+        "abilities": ["Sand Veil", "Arena Trap", "Sand Force"],
+        "height": 0.7,
+        "weight": 33.3,
+        "summary": "Dugtrio is a set of Diglett triplets sharing a single body, although no one knows what its body looks like since it's perpetually buried underground. Each head is incredibly tough with a smooth surface, and has brown skin, black eyes, and a large, round, pink nose. Dugtrio's three heads think the same thoughts and act cooperatively, though on rare occasions may fight over which head gets to eat first. In order to make burrowing easier, each head will bob up and down to loosen the soil. Dugtrio can tunnel under the earth at 60 mph (100 km/h) to a depth of 60 miles (100 kilometers), triggering tremors and earthquakes.", 
+        "evolutions": [],
+        "devolutions": ["Diglett"]
+    },
+
+    {
+        "name": "Meowth", 
+        "number": 52,
+        "type": ["normal"],
+        "abilities": ["Pickup", "Technician"],
+        "height": 0.4,
+        "weight": 4.2,
+        "summary": "Meowth is a small, feline Pokémon with cream-colored fur that turns brown at the tips of its hind paws and tail. Its ovoid head features four prominent whiskers, wide eyes with slit pupils, two pointed teeth in the upper jaw, and a gold koban coin embedded in its forehead. Its ears are black with brown interiors and are flanked with an additional pair of long whiskers. Meowth can freely manipulate its claws, retracting them when it wants to move silently.", 
+        "evolutions": ["Persian"],
+        "devolutions": []
+    },
+
+    {
+        "name": "Persian", 
+        "number": 53,
+        "type": ["normal"],
+        "abilities": ["Limber", "Technician"],
+        "height": 1.0,
+        "weight": 32.0,
+        "summary": "Persian is a large, quadrupedal, feline Pokémon. Its fur is pale tan with the exception of its black-rimmed ears. It has a short muzzle with a small, black nose, red eyes with slit pupils, rounded ears, a pair of pointed teeth in its upper jaw, and three whiskers on either side of its face. Its thick whiskers are very sensitive to changes in air movements, enabling it to detect its prey by movement alone. In the center of its forehead is a red jewel. Its long tail has a distinctive curl at the end.", 
+        "evolutions": [],
+        "devolutions": ["Meowth"]
+    },
+
+    {
+        "name": "Psyduck", 
+        "number": 54,
+        "type": ["water"],
+        "abilities": ["Damp", "Cloud Nine", "Swift Swim"],
+        "height": 0.8,
+        "weight": 43.2,
+        "summary": "Psyduck is a yellow Pokémon resembling a duck or a bipedal platypus. On top of its head are three thick strands of black hair, and it has a wide, flat cream-colored beak. Psyduck's eyes seem vacant and have tiny pupils. Its legs and tail are stubby, and it has cream-colored webbed feet. There are three claws on each of its hands.", 
+        "evolutions": ["Golduck"],
+        "devolutions": []
+    },
+
+    {
+        "name": "Golduck", 
+        "number": 55,
+        "type": ["water"],
+        "abilities": ["Damp", "Cloud Nine", "Swift Swim"],
+        "height": 1.7,
+        "weight": 76.6,
+        "summary": "Golduck is a blue, bipedal, duck, or platypus-like Pokémon. It has red eyes, a cream-colored bill, a red gem in the center of its forehead, and four horns on the back of its head. Its hands and feet all have three clawed digits with cream-colored webbing in between. Its body is specially adapted to have a hydrodynamic shape, and it has a long tail that it uses as a rudder to steer.", 
+        "evolutions": [],
+        "devolutions": ["Psyduck"]
+    },
+
+    {
+        "name": "Mankey", 
+        "number": 56,
+        "type": ["fighting"],
+        "abilities": ["Vital Spirit", "Anger Point", "Defiant"],
+        "height": 0.5,
+        "weight": 28.0,
+        "summary": "Mankey is a small, simian Pokémon, similar to a New World monkey. It is bipedal and has a round body covered in whitish, shaggy fur. Its nose is similar to a pig's snout, and it has narrow, red eyes and triangular ears with brown insides. Mankey's three-fingered hands, two-toed feet, and the tip of its curved, prehensile tail are brown.", 
+        "evolutions": ["Primeape"],
+        "devolutions": []
+    },
+
+    {
+        "name": "Primeape", 
+        "number": 57,
+        "type": ["fighting"],
+        "abilities": ["Vital Spirit", "Anger Point", "Defiant"],
+        "height": 1.0,
+        "weight": 32.0,
+        "summary": "Primeape is a bipedal, simian Pokémon with a round body covered in light beige, shaggy fur. There is usually a throbbing vein on the left side of its forehead, and it has triangular ears with pink insides, narrow eyes with tiny pupils, and a pink, snout-like nose. Its arms and legs are brown and have metal shackles on the wrists and ankles. This is probably indicative of a method of training with weights. The hands have no visible fingers, instead resembling mittens or boxing gloves, and the feet have two toes.", 
+        "evolutions": [],
+        "devolutions": ["Mankey"]
+    },
+
+    {
+        "name": "Growlithe", 
+        "number": 58,
+        "type": ["fire"],
+        "abilities": ["Intimidate", "Flash Fire", "Justified"],
+        "height": 0.7,
+        "weight": 19.0,
+        "summary": "Growlithe is a quadrupedal canine Pokémon. It has orange fur with black stripes along its back and legs. The fur on its muzzle, chest, belly, and tail is beige, as is an additional tuft of fur on top of its head. Growlithe's coat is noticeably longer on its chest and tail. It has gray eyes, a black nose, and large, round and triangular ears with beige interiors. Its forepaws have two visible claws, while its hind paws have three toes each. Each paw has a brown pad.", 
+        "evolutions": ["Arcanine"],
+        "devolutions": []
+    },
+
+    {
+        "name": "Arcanine", 
+        "number": 59,
+        "type": ["fire"],
+        "abilities": ["Intimidate", "Flash Fire", "Justified"],
+        "height": 1.9,
+        "weight": 155.0,
+        "summary": "Arcanine is a quadrupedal, canine Pokémon with an orange pelt marked by jagged black stripes. It has diamond-shaped ears with beige insides, black eyes, a round, black nose, and two pointed teeth protruding from its upper jaw. Its head, muzzle, and chest are covered in shaggy, beige fur, except for two oval sections around each eye and ear. Long tufts of fur grow behind its elbows and around its ankles. Its underside is black, and it has a billowing, beige tail that is bent in the middle. Each paw has three toes and a round, pink pad.", 
+        "evolutions": [],
+        "devolutions": ["Growlithe"]
+    },
+
+    {
+        "name": "Poliwag", 
+        "number": 60,
+        "type": ["water"],
+        "abilities": ["Water Absorb", "Damp", "Swift Swim"],
+        "height": 0.6,
+        "weight": 12.4,
+        "summary": "Poliwag is an amphibian Pokémon resembling a blue, spherical tadpole. It has large eyes and pink lips that can also act as suction cups for rocks. Its skin is very thin, but flexible and difficult to puncture. There is a black and white swirl on its abdomen, which is actually its internal organs showing through its semitransparent skin. ", 
+        "evolutions": ["Poliwhirl", "Poliwrath"],
+        "devolutions": []
+    },
+
+    {
+        "name": "Poliwhirl", 
+        "number": 61,
+        "type": ["water"],
+        "abilities": ["Water Absorb", "Damp", "Swift Swim"],
+        "height": 1.0,
+        "weight": 20.0,
+        "summary": "Poliwhirl is a blue, bipedal amphibian Pokémon with a spherical body. It has bulbous eyes that protrude from the top of its head. A black and white swirl covers its belly, which is actually its organs showing through its thin skin. It appears to have white gloves on its hands and rounded, digit-less feet. When out of water, it sweats to keep its skin moist and healthy. This keeps it covered in an oily fluid that allows it to slip away from enemies. All of its skin feels this way except where its swirl is, which is instead very smooth. The swirl on its belly undulates slowly and staring at it induces drowsiness.", 
+        "evolutions": ["Poliwrath"],
+        "devolutions": ["Poliwag"]
+    },
+
+    {
+        "name": "Poliwrath", 
+        "number": 62,
+        "type": ["water", "fighting"],
+        "abilities": ["Water Absorb", "Damp", "Swift Swim"],
+        "height": 1.3,
+        "weight": 54.0,
+        "summary": "Poliwrath is a blue, bipedal amphibian Pokémon with a round body and muscular arms. It has bulbous eyes that protrude from the top of its head and its belly is covered by a white and black swirl. There appear to be white gloves on its hands, and it has rounded, digit-less feet.", 
+        "evolutions": [],
+        "devolutions": ["Poliwag", "Poliwhirl"]
+    },
+
+    {
+        "name": "Abra", 
+        "number": 63,
+        "type": ["psychic"],
+        "abilities": ["Synchronize", "Inner Focus", "Magic Guard"],
+        "height": 0.9,
+        "weight": 19.5,
+        "summary": "Abra is a bipedal mammalian Pokémon that is primarily yellow. Its face is kite-shaped with a small, pale yellow snout and two short, pointed ears with pale yellow interiors. Its wide eyes are normally closed. Abra's body is segmented with black skin visible between its joints and along its neck. It has two brown, pauldron-shaped extensions on its shoulders, as well as a brown, fauld-like piece around its chest. It has three digits on each hand and foot, but its fingers are considerably shorter than its toes.", 
+        "evolutions": [],
+        "devolutions": ["Kadabra", "Alakazam"]
     }
 ]
+
