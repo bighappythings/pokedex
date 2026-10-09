@@ -1,0 +1,265 @@
+[
+    {
+        "name": "Bulbasaur",
+        "number": 1,
+        "type": ["grass", "poison"],
+        "abilities": ["Overgrow", "Chlorophyll"],
+        "height": 0.7,
+        "weight": 6.9,
+        "summary": "Bulbasaur is a small, quadrupedal amphibian Pokémon that has blue-green skin with darker patches.", 
+        "evolutions": ["Ivysaur", "Venusaur"],
+        "devolutions": []
+    },
+
+    {
+        "name": "Ivysaur",
+        "number": 2,
+        "type": ["grass", "poison"],
+        "abilities": ["Overgrow", "Chlorophyll"],
+        "height": 1.0,
+        "weight": 13.0,
+        "summary": "Ivysaur is a small, quadrupedal amphibian Pokémon that has blue-green skin with darker patches.", 
+        "evolutions": ["Venusaur"],
+        "devolutions": ["Bulbasaur"]
+    },
+
+    {
+        "name": "Venusaur",
+        "number": 3,
+        "type": ["grass", "poison"],
+        "abilities": ["Overgrow", "Chlorophyll", "Thick Fat"],
+        "height": 2.0,
+        "weight": 100.0,
+        "summary": "Ivysaur is a small, quadrupedal amphibian Pokémon that has blue-green skin with darker patches.", 
+        "evolutions": ["Venusaur"],
+        "devolutions": ["Bulbasaur"]
+    },
+
+    {
+        "name": "Charmander",
+        "number": 4,
+        "type": ["fire"],
+        "abilities": ["Blaze", "Overpower"],
+        "height": 0.6,
+        "weight": 8.5,
+        "summary": "Charmander is a bipedal, reptilian Pokémon with a primarily orange body and blue eyes. Its underside from the chest down and the soles of its feet are cream-colored. It has two small fangs visible in its upper jaw and two smaller fangs in its lower jaw. A fire burns at the tip of this Pokémon's slender tail, which has blazed there since Charmander's birth.", 
+        "evolutions": ["Charmeleon", "Charizard"],
+        "devolutions": []
+    },
+
+    {
+        "name": "Charmeleon",
+        "number": 5,
+        "type": ["fire"],
+        "abilities": ["Blaze", "Solar Power"],
+        "height": 1.1,
+        "weight": 19.0,
+        "summary": "Charmeleon is a bipedal, reptilian Pokémon. It has dark red scales and a cream underside from the chest down. It has blue eyes and a long snout with a slightly hooked tip. On the back of its head is a single horn-like protrusion.", 
+        "evolutions": ["Charizard"],
+        "devolutions": ["Charmander"]
+    },
+
+    {
+        "name": "Charizard",
+        "number": 6,
+        "type": ["fire", "flying"],
+        "abilities": ["Blaze", "Solar Power"],
+        "height": 1.7,
+        "weight": 90.5,
+        "summary": "Charizard is a draconic, bipedal Pokémon. It is primarily orange with a cream underside from the chest to the tip of its tail. It has a long neck, small blue eyes, slightly raised nostrils, and two horn-like structures protruding from the back of its rectangular head. Two fangs are visible in its upper jaw when its mouth is closed. Two large wings with blue-green undersides sprout from its back, and a horn-like appendage juts out from the top of the third joint of each wing. A single wing finger is visible through the center of each wing membrane. Charizard's arms are short and skinny compared to its robust belly, and each limb has three white claws.", 
+        "evolutions": [],
+        "devolutions": ["Charmander, Charmeleon"]
+    },
+
+    {
+        "name": "Squirtle",
+        "number": 7,
+        "type": ["water"],
+        "abilities": ["Torrent", "Rain Dish"],
+        "height": 0.5,
+        "weight": 9.0,
+        "summary": "Squirtle is a small, quadrupedal Pokémon that has blue-green skin with darker patches.", 
+        "evolutions": ["Wartortle", "Blastoise"],
+        "devolutions": []
+    },
+
+    {
+        "name": "Wartortle",
+        "number": 8,
+        "type": ["water"],
+        "abilities": ["Torrent", "Rain Dish"],
+        "height": 1.0,
+        "weight": 22.5,
+        "summary": "Wartortle is a bipedal, indigo reptilian Pokémon similar to a turtle. It has brown eyes, a dark blue streak on each cheek, and two sharp teeth protruding from its upper jaw. It has three clawed fingers and pointed toes. On each side of its head are feather-like ears covered in pale blue fur. A brown shell with a pale yellow underside encases its body. A thick, white rim separates the upper and lower halves of the shell.", 
+        "evolutions": ["Blastoise"],
+        "devolutions": ["Squirtle"]
+    },
+
+    {
+        "name": "Blastoise",
+        "number": 9,
+        "type": ["water"],
+        "abilities": ["Torrent", "Rain Dish"],
+        "height": 1.6,
+        "weight": 85.5,
+        "summary": "Wartortle is a bipedal, indigo reptilian Pokémon similar to a turtle. It has brown eyes, a dark blue streak on each cheek, and two sharp teeth protruding from its upper jaw. It has three clawed fingers and pointed toes. On each side of its head are feather-like ears covered in pale blue fur. A brown shell with a pale yellow underside encases its body. A thick, white rim separates the upper and lower halves of the shell.", 
+        "evolutions": [],
+        "devolutions": ["Squirtle", "Wartortle"]
+    },
+
+    {
+        "name": "Caterpie",
+        "number": 10,
+        "type": ["bug"],
+        "abilities": ["Shield Dust", "Run Away"],
+        "height": 0.3,
+        "weight": 2.9,
+        "summary": "Caterpie is an insect Pokémon that resembles a green caterpillar with a yellow underside and teardrop-shaped tail. Yellow ring-shaped markings down the sides of its segmented body resemble its eyes and are meant to scare off predators. Its most notable characteristic is the bright red antenna on its head, which releases a stench to repel predators.", 
+        "evolutions": ["Metapod", "Butterfree"],
+        "devolutions": []
+    },
+
+    {
+        "name": "Metapod",
+        "number": 11,
+        "type": ["bug"],
+        "abilities": ["Shed Skin"],
+        "height": 0.7,
+        "weight": 9.9,
+        "summary": "Metapod is an insect Pokémon that resembles a green chrysalis. Its body is crescent-shaped, with several segments making up the lower point. It has two heavy-lidded eyes on the sides of its shell, while the front of its shell feature geometrically shaped portions and projections, and the back has three pointed protrusions; two veering towards the sides, and one in the middle. In certain angles, the back of a Metapod's shell resembles a face alongside the eyes on the sides, with one of the protrusions resembling a sharply pointed nose, and the tail resembling a sharply pointed chin.", 
+        "evolutions": ["Butterfree"],
+        "devolutions": ["Caterpie"]
+    },
+
+    {
+        "name": "Butterfree",
+        "number": 12,
+        "type": ["bug", "flying"],
+        "abilities": ["Compound Eyes", "Tinted Lens"],
+        "height": 1.1,
+        "weight": 32.0,
+        "summary": "Butterfree is a lepidopteran insect Pokémon which resembles a vaguely anthropomorphic butterfly with a purple body. Unlike true insects, it only has two body segments and four light blue legs. The upper pair of its legs resembles small, three-fingered hands, while the lower pair resembles long, digit-less feet. Butterfree has two black antennae, a light blue snout with two fangs underneath, and large, red compound eyes. Its two pairs of wings are white with black venation. Two oval scales on a female Butterfree's lower wings are black, but they are white on a male.", 
+        "evolutions": [],
+        "devolutions": ["Caterpie", "Metapod"]
+    },
+
+    {
+        "name": "Weedle",
+        "number": 13,
+        "type": ["bug", "poison"],
+        "abilities": ["Shield Dust", "Run Away"],
+        "height": 0.3,
+        "weight": 3.2,
+        "summary": "Weedle is a larval insect Pokémon with a segmented body ranging in color from yellow to reddish-brown. Each segment of its body is a sphere. It has a bulbous red nose, two small, black eyes on its face, and two spherical feet on each body segment. The combination of red and yellow in its color scheme creates a bright warning to predators that it is poisonous. Weedle has a conical, two-inch (five-centimeter) venomous stinger on its head and a barbed one on its tail. Weedle can retaliate against attackers and those who step on it with its strong toxin. It can distinguish its favorite kinds of leaves using its acute sense of smell. As a young Bug-type Pokémon, its daily appetite for leaves matches its weight. Weedle can be found in temperate forests and usually hide in grass, bushes, and under the leaves they eat.", 
+        "evolutions": ["Kakuna", "Beedrill"],
+        "devolutions": []
+    },
+
+    {
+        "name": "Kakuna", 
+        "number": 14,
+        "type": ["bug", "poison"],
+        "abilities": ["Shed Skin"],
+        "height": 0.6,
+        "weight": 10.0,
+        "summary": "Kakuna is a yellow, insect cocoon-like Pokémon. Kakuna has a dome-shaped head and black, triangular eyes with glowing white pupils. It has two scythe-like arms in the middle of its body. When it comes close to evolving, its body gives off heat that makes it warm to the touch. Kakuna remains virtually immobile and waits for Evolution, often hanging from tree branches by long strands of silk. When attacked, however, it can extend its poison barbs. Kakuna nests in temperate forests and misty wooded areas.", 
+        "evolutions": ["Beedrill"],
+        "devolutions": ["Weedle"]
+    },
+
+    {
+        "name": "Beedrill", 
+        "number": 15,
+        "type": ["bug", "poison"],
+        "abilities": ["Shed Skin"],
+        "height": 0.6,
+        "weight": 10.0,
+        "summary": "Kakuna is a yellow, insect cocoon-like Pokémon. Kakuna has a dome-shaped head and black, triangular eyes with glowing white pupils. It has two scythe-like arms in the middle of its body. When it comes close to evolving, its body gives off heat that makes it warm to the touch. Kakuna remains virtually immobile and waits for Evolution, often hanging from tree branches by long strands of silk. When attacked, however, it can extend its poison barbs. Kakuna nests in temperate forests and misty wooded areas.", 
+        "evolutions": [],
+        "devolutions": ["Weedle", "Kakuna"]
+    },
+
+    {
+        "name": "Beedrill", 
+        "number": 15,
+        "type": ["bug", "poison"],
+        "abilities": ["Swarm", "Sniper"],
+        "height": 1.0,
+        "weight": 29.5,
+        "summary": "Beedrill is an insect Pokémon which mostly resembles a bipedal, yellow wasp; however, it only has four legs instead of six and lacks pigment pits. Beedrill's head is round with a slightly pointed mouth, large, red eyes, and black antennae with a sharp bend in the middle. Its forelegs are tipped with long, conical stingers.", 
+        "evolutions": [],
+        "devolutions": ["Weedle", "Kakuna"]
+    },
+
+    {
+        "name": "Pidgey", 
+        "number": 16,
+        "type": ["normal", "flying"],
+        "abilities": ["Keen Eye", "Big Pecks"],
+        "height": 0.3,
+        "weight": 1.8,
+        "summary": "Pidgey is a small, plump-bodied avian Pokémon. It is primarily brown with a cream-colored face, underside, and flight feathers. On top of its head is a short crest of three tufts. The center crest feathers are brown, and the outer two tufts are cream-colored. Just under its crest are its narrow eyes, which have white sclera and pupil and black irises.", 
+        "evolutions": ["Pidgeotto", "Pidgeot"],
+        "devolutions": []
+    },
+
+    {
+        "name": "Pidgeotto", 
+        "number": 17,
+        "type": ["normal", "flying"],
+        "abilities": ["Keen Eye", "Big Pecks"],
+        "height": 1.1,
+        "weight": 30.0,
+        "summary": "Pidgeotto is a raptor-like avian Pokémon. It is covered with brown feathers and has a cream-colored face, underside, and flight feathers. It has a crest of pinkish-red feathers on its head and black, angular markings behind its black eyes. The plumage of its tail has alternating red and yellow feathers with ragged tips.", 
+        "evolutions": ["Pidgeot"],
+        "devolutions": ["Pidgey"]
+    },
+
+    {
+        "name": "Pidgeot", 
+        "number": 18,
+        "type": ["normal", "flying"],
+        "abilities": ["Keen Eye", "Big Pecks"],
+        "height": 1.5,
+        "weight": 39.5,
+        "summary": "Pidgeot is an avian Pokémon with large wings, sharp talons, and a short, hooked beak. Its glossy plumage is mostly brown with cream-colored underparts and flight feathers. Its head has a decorated crest nearly as long as its body. The center feathers of its crest are yellow, while the outer feathers are red. The fan-like feathers of its tail are red or brown.", 
+        "evolutions": [],
+        "devolutions": ["Pidgey", "Pidgeotto"]
+    },
+
+    {
+        "name": "Rattata", 
+        "number": 19,
+        "type": ["normal"],
+        "abilities": ["Run Away", "Guts", "Hustle"],
+        "height": 0.3,
+        "weight": 3.5,
+        "summary": "Rattata is a small, quadrupedal rodent Pokémon. It has purple fur with a cream-colored face, paws, and underbelly. It has narrow eyes containing white sclera and pupil with red irises, rounded ears with cream-colored insides, and a single whisker on each cheek.", 
+        "evolutions": ["Raticate"],
+        "devolutions": []
+    },
+
+    {
+        "name": "Raticate", 
+        "number": 20,
+        "type": ["normal"],
+        "abilities": ["Run Away", "Guts", "Hustle"],
+        "height": 0.7,
+        "weight": 18.5,
+        "summary": "Raticate is a large, rodent-like Pokémon. Although it is often depicted on its hind legs, it is a quadruped. It is primarily tawny-colored with a cream underside. It has narrow black eyes, ears with ragged edges and dark insides, and large incisors that grow constantly. There are three whiskers on each side of its face, . It has short arms with three-fingered hands and webbed feet with three toes.", 
+        "evolutions": [],
+        "devolutions": ["Rattata"]
+    },
+
+    {
+        "name": "Raticate", 
+        "number": 20,
+        "type": ["normal"],
+        "abilities": ["Run Away", "Guts", "Hustle"],
+        "height": 0.7,
+        "weight": 18.5,
+        "summary": "Raticate is a large, rodent-like Pokémon. Although it is often depicted on its hind legs, it is a quadruped. It is primarily tawny-colored with a cream underside. It has narrow black eyes, ears with ragged edges and dark insides, and large incisors that grow constantly. There are three whiskers on each side of its face, . It has short arms with three-fingered hands and webbed feet with three toes.", 
+        "evolutions": [],
+        "devolutions": ["Rattata"]
+    }
+]
