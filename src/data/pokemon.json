@@ -787,8 +787,1063 @@
         "height": 0.9,
         "weight": 19.5,
         "summary": "Abra is a bipedal mammalian Pokémon that is primarily yellow. Its face is kite-shaped with a small, pale yellow snout and two short, pointed ears with pale yellow interiors. Its wide eyes are normally closed. Abra's body is segmented with black skin visible between its joints and along its neck. It has two brown, pauldron-shaped extensions on its shoulders, as well as a brown, fauld-like piece around its chest. It has three digits on each hand and foot, but its fingers are considerably shorter than its toes.", 
+        "evolutions": ["Kadabra", "Alakazam"],
+        "devolutions": []
+    },
+
+    {
+        "name": "Kadabra", 
+        "number": 64,
+        "type": ["psychic"],
+        "abilities": ["Synchronize", "Inner Focus", "Magic Guard"],
+        "height": 1.3,
+        "weight": 48,
+        "summary": "Kadabra is a primarily yellow, slightly humanoid Pokémon with mammalian features. It has two long, pointed ears on top of its head, a red star on its forehead, narrow, deep-set eyes, and wide cheeks leading down to a thin snout. Extending from each side of its snout are two mustache-like tufts of fur; a male will have a longer mustache than a female. Kadabra's torso is segmented with bulky shoulders, a thick, brown chest, and a small abdomen marked by three red, wavy lines. Attached to the Pokémon's abdomen is a large, thick tail encircled with a brown band near its base. Its arms are thin with brown elbows and end in three-fingered hands with white claws.", 
+        "evolutions": ["Alakazam"],
+        "devolutions": ["Abra"]
+    },
+
+    {
+        "name": "Alakazam", 
+        "number": 65,
+        "type": ["psychic"],
+        "abilities": ["Synchronize", "Inner Focus", "Magic Guard"],
+        "height": 1.5,
+        "weight": 56.5,
+        "summary": "Alakazam is a slightly humanoid Pokémon with a large mustache. A female Alakazam has a significantly shorter mustache than a male. It has a long, thin snout, narrow eyes, ear-like spikes extending from the top of its head, and an additional spike protruding from each cheek. Covering its yellow, skeletal body are brown armor-like sections over its chest, shoulders, forearms, and knees. There are three toes on each foot, each of which has a white claw. Two of the toes face forward, while one faces backward. It wields a silver spoon in each hand, which act as amplifiers for its psychic abilities. The spoons are created using its psychic powers, and it may give one to someone it trusts.", 
         "evolutions": [],
-        "devolutions": ["Kadabra", "Alakazam"]
+        "devolutions": ["Abra", "Kadabra"]
+    },
+
+    {
+        "name": "Machop", 
+        "number": 66,
+        "type": ["fighting"],
+        "abilities": ["Guts", "No Guard", "Steadfast"],
+        "height": 0.8,
+        "weight": 19.5,
+        "summary": "Machop is a humanoid, bipedal Pokémon that has blue-gray skin. It has three brown ridges on top of its head, large red eyes, and a relatively flat face. On either side of its chest are three, thin, rib-like stripes. Its feet appear to have no toes, while its hands have five fingers. Machop also has a short, stubby tail.", 
+        "evolutions": ["Machoke", "Machamp"],
+        "devolutions": []
+    },
+
+    {
+        "name": "Machoke", 
+        "number": 67,
+        "type": ["fighting"],
+        "abilities": ["Guts", "No Guard", "Steadfast"],
+        "height": 1.5,
+        "weight": 70.5,
+        "summary": "Machoke is a bipedal, humanoid Pokémon covered in blue-gray skin (purple prior to Generation VI). It has a vaguely reptilian face with a short snout, narrow red eyes, and four pointed teeth visible inside its mouth. Two of these teeth are in the upper jaw, while two are in the lower jaw. On top of its head are three brown ridges. Its arms are muscular with dark red, vertical stripes on them.", 
+        "evolutions": ["Machamp"],
+        "devolutions": ["Machop"]
+    },
+
+    {
+        "name": "Machamp", 
+        "number": 68,
+        "type": ["fighting"],
+        "abilities": ["Guts", "No Guard", "Steadfast"],
+        "height": 1.6,
+        "weight": 130.0,
+        "summary": "Machamp is a humanoid Pokémon with four well-muscled arms. It has bluish-gray skin, red eyes, and large, pale, yellow lips. On its head, there are three brown ridges right above its eyes. It has two arms on each side of its body: a pair located in the normal position, and another pair directly above that attaches on the top of the shoulders. It has black markings that resemble briefs[1] and wears a golden power-save belt that resembles a championship belt. Its legs have considerable muscle tone, and its feet have two toes each.", 
+        "evolutions": [],
+        "devolutions": ["Machop", "Machoke"]
+    },
+
+    {
+        "name": "Bellsprout", 
+        "number": 69,
+        "type": ["grass", "poison"],
+        "abilities": ["Chlorophyll", "Gluttony"],
+        "height": 0.7,
+        "weight": 4.0,
+        "summary": "Bellsprout is a plant-based Pokémon with a stem-like brown body. There is a single green leaf on each side of its body. It has a yellow bell-shaped head with what appear to be pink lips at the end and beady black eyes. It is capable of spitting corrosive acid from its mouth. Its stem is long, thin and very flexible, making it capable of swerving rapidly to avoid many attacks or moving with blinding speed to capture prey. Its roots resemble feet, and it uses them as such.", 
+        "evolutions": ["Weepinbell", "Victreebel"],
+        "devolutions": []
+    },
+
+    {
+        "name": "Weepinbell", 
+        "number": 70,
+        "type": ["grass", "poison"],
+        "abilities": ["Chlorophyll", "Gluttony"],
+        "height": 1.0,
+        "weight": 6.4,
+        "summary": "Weepinbell is a pitcher plant Pokémon with a yellow, bell-shaped body. Above Weepinbell's circular eyes are three small green spots and a small, brown hook-shaped stem. It has wide, gaping mouth with pink lips. On each side of its body is a large, green leaf.", 
+        "evolutions": ["Victreebel"],
+        "devolutions": ["Bellsprout"]
+    },
+
+    {
+        "name": "Victreebel", 
+        "number": 71,
+        "type": ["grass", "poison"],
+        "abilities": ["Chlorophyll", "Gluttony"],
+        "height": 1.7,
+        "weight": 15.5,
+        "summary": "Victreebel is a pitcher plant Pokémon with a bell-shaped body. It has a gaping mouth with a swollen pink lip and two sharp teeth on the bottom. Its semicircular eyes appear directly under its mouth and it has several dark green spots on its body. On either side of its body is a large green leaf. Covering Victreebel's mouth is a leaf with a long, brown, yellow-tipped vine growing out of it. The acid produced by Victreebel can corrode any material, regardless of its hardness.", 
+        "evolutions": [],
+        "devolutions": ["Bellsprout", "Weepinbell"]
+    },
+
+    {
+        "name": "Tentacool", 
+        "number": 72,
+        "type": ["water", "poison"],
+        "abilities": ["Clear Body", "Liquid Ooze", "Rain Dash"],
+        "height": 0.9,
+        "weight": 45.5,
+        "summary": "Tentacool is a small, cnidarian Pokémon. It has a light blue, clear body with two large, transparent, red, crystalline eyes on each side of its body and one small one in the middle. Near the base of its body is a pointed, beak-like projection and two eyes with small pupils. There are two grayish tentacles extending from beneath its round lower body, which has a cape-like formation on the back.", 
+        "evolutions": ["Tentacruel"],
+        "devolutions": []
+    },
+
+    {
+        "name": "Tentacruel", 
+        "number": 73,
+        "type": ["water", "poison"],
+        "abilities": ["Clear Body", "Liquid Ooze", "Rain Dash"],
+        "height": 1.6,
+        "weight": 55.0,
+        "summary": "Tentacruel is a large, cnidarian Pokémon. It has a clear, light blue body with two large, red orbs on either side and a smaller orb in the center. Its eyes are visible in its round lower body, which is black. Extending from its lower body are two blue, beak-like appendages and numerous grayish tentacles. Its red orbs glow whenever it is excited or agitated, communicating with its own kind, and it may alert others to danger by stridently flashing them. They are also capable of refracting sunlight, storing energy, and firing ultrasonic waves.", 
+        "evolutions": [],
+        "devolutions": ["Tentacool"]
+    },
+
+    {
+        "name": "Geodude", 
+        "number": 74,
+        "type": ["rock", "ground"],
+        "abilities": ["Rock Head", "Sand Veil"],
+        "height": 0.4,
+        "weight": 20.0,
+        "summary": "Geodude is a khaki boulder-like Pokémon. It has bulging, rocky eyebrows, trapezoidal eyes with brown pupils, and a wide mouth. Its arms are muscular with five-fingered hands. Geodude uses its arms to climb steadily up steep mountain paths.", 
+        "evolutions": ["Graveler", "Golem"],
+        "devolutions": []
+    },
+
+    {
+        "name": "Graveler", 
+        "number": 75,
+        "type": ["rock", "ground"],
+        "abilities": ["Rock Head", "Sturdy", "Sand Veil"],
+        "height": 1.0,
+        "weight": 105.0,
+        "summary": "Graveler is a bipedal, khaki boulder Pokémon. Its round body is covered with small bumps and it has a rocky crest above its small eyes and mouth. It has four arms, each with a three-fingered hand. Its second pair of arms is typically kept tucked against its chest.", 
+        "evolutions": ["Golem"],
+        "devolutions": ["Geodude"]
+    },
+
+    {
+        "name": "Golem", 
+        "number": 76,
+        "type": ["rock", "ground"],
+        "abilities": ["Rock Head", "Sturdy", "Sand Veil"],
+        "height": 1.4,
+        "weight": 300.0,
+        "summary": "Golem is a bipedal tortoise-like boulder Pokémon with a spherical body covered by a shell of plated, green rocks. Its body is so hard that even dynamite cannot scratch it. Its head protrudes from the center of the shell. The head has a flat snout with two pointed teeth in the lower jaw and red eyes. It has short arms that have three claws and two legs with feet that have four claws in front and one in back. The head and limbs are light brown.", 
+        "evolutions": [],
+        "devolutions": ["Geodude", "Graveler"]
+    },
+
+    {
+        "name": "Ponyta", 
+        "number": 77,
+        "type": ["fire"],
+        "abilities": ["Run Away", "Flash Fire", "Flame Body"],
+        "height": 1.0,
+        "weight": 30.0,
+        "summary": "Ponyta is an equine Pokémon with cream-colored fur that resembles a foal/filly. It has brown eyes and triangular ears with reddish interiors. Yellow and reddish-orange flames make up its mane and tail. The mane forms a short crest on top of its head and a short strip down its back to its tail. Additional flames are present behind its elbows and knees. The fire appears about an hour after hatching. It has four long legs, each ending in a single, gray hoof. These hooves are said to be ten times harder than diamonds and act as shock absorbers.", 
+        "evolutions": ["Rapidash"],
+        "devolutions": []
+    },
+
+    {
+        "name": "Rapidash", 
+        "number": 78,
+        "type": ["fire"],
+        "abilities": ["Run Away", "Flash Fire", "Flame Body"],
+        "height": 1.7,
+        "weight": 95,
+        "summary": "Rapidash is an equine Pokémon with cream-colored fur and a pointed horn on its forehead. It has small, red eyes and triangular ears with reddish interiors. Yellow and reddish-orange flames stream from the back of its head to form a long, flowing mane. A short version of the mane trails down its back to its equally fiery tail. Flames are also present on its fetlocks. It has slender legs, each with a single black hoof.", 
+        "evolutions": [],
+        "devolutions": ["Ponyta"]
+    },
+
+    {
+        "name": "Slowpoke", 
+        "number": 79,
+        "type": ["water", "psychic"],
+        "abilities": ["Obvious", "Own Tempo", "Regenerator"],
+        "height": 1.2,
+        "weight": 36,
+        "summary": "Slowpoke is a pink Pokémon that resembles a cross between a salamander and a hippopotamus. It has vacant eyes that never seem focused, curled ears, and a rounded, tan muzzle. It has four legs, each of which ends in a single white claw. Its long, tapering tail has a white tip. This tail drips a sweet, sappy substance that is attractive to many species of fish. Slowpoke uses the tail as a fishing lure. The tail often breaks off, but it will grow back.", 
+        "evolutions": ["Slowbro"],
+        "devolutions": []
+    },
+
+    {
+        "name": "Slowbro", 
+        "number": 80,
+        "type": ["water", "psychic"],
+        "abilities": ["Obvious", "Own Tempo", "Regenerator"],
+        "height": 1.6,
+        "weight": 78.5,
+        "summary": "Slowbro is a bipedal, pink Pokémon with a tan, striped belly and a rounded, tan muzzle. It has large, vacant eyes, curled ears, and two small pointed teeth protruding from its upper jaw. It has three clawed fingers on its hands and two clawed toes on its feet. There is a Shellder attached to its tail. This Shellder has a gray, spiral shell with darker gray spots and small, triangular eyes near the base. There are several spikes across the surface of the Shellder, and it holds onto Slowbro with many sharp teeth. Shellder developed its spiral form in an effort to suck more sweetness out of Slowbro's tail. If its tail or the Shellder attached to it is broken off, Slowbro will revert to its unevolved form, Slowpoke.", 
+        "evolutions": [],
+        "devolutions": ["Slowpoke"]
+    },
+
+    {
+        "name": "Magnemite", 
+        "number": 81,
+        "type": ["electric", "steel"],
+        "abilities": ["Magnet Pull", "Sturdy", "Analytic"],
+        "height": 0.3,
+        "weight": 6.0,
+        "summary": "Magnemite is a seemingly robotic Pokémon that has a gray, spherical metal body, with blue-and-red tipped horseshoe magnets on each side and a single, large eye. It has three Phillips head screws on its body: two near the bottom of its body and the one on top of its head that looks similar to an antenna. The two bottom screws serve no noticeable purpose, although they may be its feet as the Pokédex identifies a footprint similar to that of the screw's head.", 
+        "evolutions": ["Magneton"],
+        "devolutions": []
+    },
+
+    {
+        "name": "Magneton", 
+        "number": 82,
+        "type": ["electric", "steel"],
+        "abilities": ["Magnet Pull", "Sturdy", "Analytic"],
+        "height": 1.0,
+        "weight": 60,
+        "summary": "Magneton is a robot-like Pokémon, the result of three Magnemite becoming linked together by a strong magnetic force, although a single Magnemite can evolve by itself when there are no other Magnemite in the vicinity. Each individual Magnemite has a gray spherical body with a single eye, and a gray and red-and-blue tipped horseshoe magnet on each side. The topmost Magnemite has three Phillips head screws on its body, while the others appear to have only two. The three Magnemite that Magneton consists of can be linked in several ways. Magneton is most commonly seen as one Magnemite on top, and two Magnemite linked by the screws on the bottom, forming a triangle.", 
+        "evolutions": [],
+        "devolutions": ["Magnemite"]
+    },
+
+    {
+        "name": "Farfetch'd", 
+        "number": 83,
+        "type": ["normal", "flying"],
+        "abilities": ["Keen Eye", "Inner Focus", "Defiant"],
+        "height": 0.8,
+        "weight": 15.0,
+        "summary": "Farfetch'd is an avian Pokémon that resembles a light brown duck with a white underbelly. It has a flat, yellow beak, brown eyes, a V-shaped black marking on its forehead (similar to a unibrow), and a three-feather crest on top of its head. Its wings are as big as its body and appear to be prehensile enough to substitute for hands. It has yellow legs with webbed feet and a stubby tail.", 
+        "evolutions": [],
+        "devolutions": []
+    },
+
+    {
+        "name": "Doduo", 
+        "number": 84,
+        "type": ["normal", "flying"],
+        "abilities": ["Run Away", "Early Bird", "Tangled Feet"],
+        "height": 1.4,
+        "weight": 39.2,
+        "summary": "Doduo is a two-headed, bipedal avian Pokémon. Each head has a long sharp beak and two beady black eyes. It has a bristly, down-like covering of brown feathers on its body and both heads. A male has black flexible necks, whereas a female has brown necks; both genders have brown legs. Each foot has four digits ending in a sharp claw. Both heads have an identical brain. However, it is believed that on occasion they may possess different brains. It is also theorized that the two heads communicate with some form of telepathy for coordination. Even when sleeping or nourishing itself with food and water, one head is usually awake and alert and keeps a keen eye out for enemies.", 
+        "evolutions": ["Dodrio"],
+        "devolutions": []
+    },
+
+    {
+        "name": "Dodrio", 
+        "number": 85,
+        "type": ["normal", "flying"],
+        "abilities": ["Run Away", "Early Bird", "Tangled Feet"],
+        "height": 1.8,
+        "weight": 85.2,
+        "summary": "Dodrio is a large, wingless, three-headed avian Pokémon. Each head has a long, sharp beak and a black V-shaped, feather crest. It has bristly brown feathers covering its head and upper body, while its lower half has a smooth layer of black feathers. Its tail consists of three pale red feathers with lighter tips. Its wingless body rests on two long and slender, but powerful legs with feet that have three clawed toes in front and one in back. A male has black necks, whereas a female has brown necks; both genders have brown legs.", 
+        "evolutions": [],
+        "devolutions": ["Doduo"]
+    },
+
+    {
+        "name": "Seel", 
+        "number": 86,
+        "type": ["water"],
+        "abilities": ["Thick Fat", "Hydration", "Ice Body"],
+        "height": 1.1,
+        "weight": 90,
+        "summary": "Seel is a pinniped Pokémon with a thick hide covered in bluish-white fur. It has a pale tan canine maw with a large red tongue and a pair of tusks on its lower jaw. It has circular eyes, prominent black eyebrows (it’s one of the few Pokémon that has eyebrows) and a black nose that is capable of closing when it swims. There is a small horn on its forehead, which it uses in combination with its tusks to bore through ice floes. It has two flippers on its chest, and two more on the end of its tail. When the tail is raised, it resembles a waterspout.", 
+        "evolutions": ["Dewgong"],
+        "devolutions": []
+    },
+
+    {
+        "name": "Dewgong", 
+        "number": 87,
+        "type": ["water", "ice"],
+        "abilities": ["Thick Fat", "Hydration", "Ice Body"],
+        "height": 1.7,
+        "weight": 120,
+        "summary": "Dewgong is a pinniped Pokémon with a snowy white, furry body. Its fur renders it virtually invisible in snowy conditions. Its face has two black eyes, a black nose, and two tusks extending from its upper jaw. It has a streamlined body with two front flippers and a long flowing tail. Even in extremely cold and ice-packed waters, its tail allows it to be a swift and agile swimmer at speeds of 8 knots. On top of its head is a sharp horn, which allows it to cut through the thickest ice floes.", 
+        "evolutions": [],
+        "devolutions": ["Seel"]
+    },
+
+    {
+        "name": "Grimer", 
+        "number": 88,
+        "type": ["poison"],
+        "abilities": ["Stench", "Sticky Hold", "Poison Touch"],
+        "height": 0.9,
+        "weight": 30,
+        "summary": "Grimer is a slimy, amorphous Pokémon, born from sludge in dirty streams or seabeds that are exposed to lunar radiation. It has two large eyes with beady pupils and a gaping mouth with a gray tongue. While it lacks any visible legs, it does have two arms with three digits on each hand. Its purple sludge body contains a variety of pungent bacteria, which are so potent that it renders soil barren and incapable of supporting plant life. It is constantly oozing a bacteria-rich fluid from all parts of its body. Should it run out of internal germs, Grimer will die. Pieces of it often break off during travel and go on to become new Grimer. When combined with another Grimer, it produces new poisonous compounds.", 
+        "evolutions": ["Muk"],
+        "devolutions": []
+    },
+
+    {
+        "name": "Muk", 
+        "number": 89,
+        "type": ["poison"],
+        "abilities": ["Stench", "Sticky Hold", "Poison Touch"],
+        "height": 1.2,
+        "weight": 30,
+        "summary": "Muk is a large, sticky, amorphous Pokémon made of living purple sludge. It has two small eyes with beady black pupils. It also has an enormous mouth with a gray tongue and strands of ooze connecting its top and bottom jaws. While it has no visible legs, it does have two arms with three fingers on each hand. However, it typically keeps one hand tucked in while it extends the other hand.", 
+        "evolutions": [],
+        "devolutions": ["Grimer"]
+    },
+
+    {
+        "name": "Shellder", 
+        "number": 90,
+        "type": ["water"],
+        "abilities": ["Shell Armor", "Skill Link", "Overcoat"],
+        "height": 0.3,
+        "weight": 4,
+        "summary": "Shellder is a bivalve mollusk Pokémon encased within a spiky, blue-violet bivalve shell. It has two round white eyes with tiny black pupils. Its long, red tongue, usually hidden due to the darkness of Shellder’s body, extends from its often closed mouth. Shellder uses this tongue to burrow into the sand to sleep overnight and to lure and capture prey. If it were to close its shell, nothing could come to it; however, the tongue protrudes even when its shell is shut. Tugging on it will cause the shell to pop open. Its soft and tender body is well-protected by its extremely durable shell, which is purported to be harder than diamonds and has historically been used by people to make shields. It can make pearls from accumulated sand, though it discards them as they are typically in its way.", 
+        "evolutions": ["Cloyster"],
+        "devolutions": []
+    },
+
+    {
+        "name": "Cloyster", 
+        "number": 91,
+        "type": ["water"],
+        "abilities": ["Shell Armor", "Skill Link", "Overcoat"],
+        "height": 1.5,
+        "weight": 132.5,
+        "summary": "Cloyster is a black bivalve mollusk Pokémon. It is encased inside a light-gray shell, which is surrounded by a second jagged, blue-violet outer shell casing. It has one barb-like spike protruding from above its head, and multiple conical horns on its outer shell. Its shell is harder than a diamond with spikes that are even harder; harsh tidal currents will affect the size and sharpness of these spikes. On its pearl-like face, it has two white eyes and a mouth. Aside from its face and head, its internal anatomy has never been seen. Once it has shut itself in, it is impossible to open its shell from the outside. This impressive defense allows it to withstand anything from a bomb blast to even a missile strike.", 
+        "evolutions": [],
+        "devolutions": ["Shellder"]
+    },
+
+    {
+        "name": "Gastly", 
+        "number": 92,
+        "type": ["ghost", "poison"],
+        "abilities": ["Levitate"],
+        "height": 1.3,
+        "weight": 0.1,
+        "summary": "Gastly has no true form, due to 95% of its body being poisonous gas, with the other 5% believed to be made up of the souls of those who died from the gas. However, it consistently appears as a black, spherical Pokémon surrounded by a purple haze. Gastly has a wide, pink mouth with two visible fangs. Though its eyes seem to extend past its round body, visible eyelids surround them.", 
+        "evolutions": ["Haunter", "Gengar"],
+        "devolutions": []
+    },
+
+    {
+        "name": "Haunter", 
+        "number": 93,
+        "type": ["ghost", "poison"],
+        "abilities": ["Levitate"],
+        "height": 1.6,
+        "weight": 0.1,
+        "summary": "Haunter is a purple Pokémon with a gaseous body. It has a round head flanked by three large, spiked protrusions on either side. It has triangular eyes with small pupils and a mouth with a long, pink tongue. The gases composing its head curve into its mouth to form several pointed teeth. Disembodied hands with three clawed fingers each float in front of its body. Its body tapers into a jagged tail. Haunter's gaseous form makes it one of the lightest Pokémon in existence.", 
+        "evolutions": ["Gengar"],
+        "devolutions": ["Gastly"]
+    },
+    {
+        "name": "Gengar", 
+        "number": 94,
+        "type": ["ghost", "poison"],
+        "abilities": ["Cursed Body", "Shadow Tag"],
+        "height": 1.5,
+        "weight": 40.5,
+        "summary": "Gengar is a dark purple, bipedal Pokémon with a roundish body. It has red eyes, a wide mouth that is usually curled into a sinister grin, and pointed ears. On its back are numerous spikes, and it has smaller spikes on top of its head similar to tufty fur. Its arms and legs are short with three digits on both its hands and feet. It also has a stubby tail.", 
+        "evolutions": [],
+        "devolutions": ["Gastly", "Haunter"]
+    },
+
+    {
+        "name": "Onix", 
+        "number": 95,
+        "type": ["rock", "ground"],
+        "abilities": ["Rock Head", "Sturdy"],
+        "height": 8.8,
+        "weight": 210,
+        "summary": "Onix is a Pokémon composed of a giant chain of gray boulders that become smaller towards the tail. Its length makes it the tallest Rock-type Pokémon. It has black eyes and a rounded snout. On top of its head is a rocky spine. As it grows older, it becomes more rounded and smoother, eventually becoming similar to black diamonds. Inside its brain is a magnet that serves as an internal compass, guiding Onix wherever they need to go and prevents them from getting lost while digging.", 
+        "evolutions": [],
+        "devolutions": []
+    },
+
+    {
+        "name": "Drowzee", 
+        "number": 96,
+        "type": ["psychic"],
+        "abilities": ["Insomnia", "Inner Focus"],
+        "height": 1.0,
+        "weight": 32.4,
+        "summary": "Drowzee is a bipedal Pokémon that resembles a tapir. It has tired-looking eyes, a short trunk above its mouth, and triangular ears with brown interiors. The upper half of Drowzee's body is yellow and the lower half is brown. A wavy line separates the two halves. It has a round belly and short legs. Its feet are brown, except for its two toes, which are yellow. The bottom of each foot has a small, round, pink pad in the middle of it.", 
+        "evolutions": ["Hypno"],
+        "devolutions": []
+    },
+
+    {
+        "name": "Hypno", 
+        "number": 97,
+        "type": ["psychic"],
+        "abilities": ["Insomnia", "Forewarn", "Inner Focus"],
+        "height": 1.6,
+        "weight": 75.6,
+        "summary": "Hypno is a bipedal, slightly humanoid Pokémon that has yellow skin. It has triangular ears with brown interiors, sleepy-looking eyes, and a large nose. On its neck, it has a ruff of white fur, which is longer on the female. Hypno has five fingers on each hand and holds a pendulum in its left. The pendulum resembles a flat, silver ring and is used for hypnotism. Hypno is never seen without it. It has three toes on each foot, which also have a pink pad on the undersides.", 
+        "evolutions": [],
+        "devolutions": ["Drowzee"]
+    },
+
+    {
+        "name": "Krabby", 
+        "number": 98,
+        "type": ["water"],
+        "abilities": ["Hyper Cutter", "Shell Armor", "Sheer Force"],
+        "height": 0.4,
+        "weight": 6.5,
+        "summary": "Krabby is a crustacean Pokémon with a strong outer shell protecting its small body. Its upper half is red and has its eyes and two small spikes on the top of its head. Its light tan arms are also connected to its upper body. Its lower body is light tan and doubles as its jaw with two fangs overlapping its upper body. Its hips are visible on the lower front of its body connected to its four long, thin legs. Each leg has a single, claw-like foot. The main features of Krabby's body are the two large, red pincers at the end of its arms. Krabby uses them as its main form of offense, and as a form of balance. Sometimes, Krabby may lose a claw during battle or have a damaged claw forcibly removed. However, the claw regenerates over a short period.", 
+        "evolutions": ["Kingler"],
+        "devolutions": []
+    },
+
+    {
+        "name": "Kingler", 
+        "number": 99,
+        "type": ["water"],
+        "abilities": ["Hyper Cutter", "Shell Armor", "Sheer Force"],
+        "height": 1.3,
+        "weight": 60,
+        "summary": "Kingler is a crustacean Pokémon resembling a crab. Its strong shell serves as a natural armor and covers the outside of its body, featuring a red upper half and a light tan lower half. Its upper half is topped with six tall, thin spikes that resemble a crown. Its light tan arms are also connected to its upper body. Its lower half doubles as its jaw with six fangs overlapping its upper body. Its two outer fangs are much larger than the inner four and are roughly half as tall as Kingler's entire body. Its hips visibly protrude from its lower body and connect to its four long, thin legs. Each leg has a single, claw-like foot. Kingler's main features are its orange pincers. Its left claw is roughly twice as large as the other and is as hard as steel.", 
+        "evolutions": [],
+        "devolutions": ["Krabby"]
+    },
+
+    {
+        "name": "Voltorb", 
+        "number": 100,
+        "type": ["electric"],
+        "abilities": ["Soundproof", "Static", "Aftermath"],
+        "height": 0.5,
+        "weight": 10.4,
+        "summary": "Voltorb is a spherical Pokémon that resembles a buttonless Poké Ball with eyes. The top half is red, while the bottom half is white. Because of its resemblance to Poké Balls, it is thought that it was created when one was exposed to an energy pulse. This is supported by the fact that its components do not occur naturally.", 
+        "evolutions": ["Electrode"],
+        "devolutions": []
+    },
+
+    {
+        "name": "Electrode", 
+        "number": 101,
+        "type": ["electric"],
+        "abilities": ["Soundproof", "Static", "Aftermath"],
+        "height": 1.2,
+        "weight": 66.6,
+        "summary": "Electrode is a round Pokémon resembling an upside-down Poké Ball with a smile mouth, black slit eyes, prominent black eyebrows that are usually depicted with an angry expression and eyes. Its top half is white, while its lower half is red.", 
+        "evolutions": [],
+        "devolutions": ["Voltorb"]
+    },
+
+    {
+        "name": "Exeggcute", 
+        "number": 102,
+        "type": ["grass", "psychic"],
+        "abilities": ["Chlorophyll", "Harvest"],
+        "height": 0.4,
+        "weight": 2.5,
+        "summary": "Exeggcute is a Pokémon resembling a group of six light pink 'eggs', usually seen arranged with five heads huddled around a sixth. Each 'head' has a slightly different facial expression, but each face has triangular eyes with tiny black pupils and a small mouth. Each shell has some cracks, and one member of the bundle is cracked open, and usually has its yellow insides, egg yolk, or brain exposed. More numerous cracks are a sign that it is close to Evolution. Despite looking like eggs, Exeggcute is actually more closely related to plant seeds. It is believed to carry genes of plants and other species.", 
+        "evolutions": ["Exeggutor"],
+        "devolutions": []
+    },
+
+    {
+        "name": "Exeggutor", 
+        "number": 103,
+        "type": ["grass", "psychic"],
+        "abilities": ["Chlorophyll", "Harvest"],
+        "height": 2,
+        "weight": 120,
+        "summary": "Exeggutor is a tall, bipedal Pokémon that resembles a coconut tree or palm tree. Its body and legs are light brown with thin black rings and its legs are thick with two-toed feet. There is a light yellow paw pad on each foot's underside. It has thin, green leaves sprouting from the top of its body. Exeggutor has three round, light yellow heads that resemble coconuts, each with different facial expressions.", 
+        "evolutions": [],
+        "devolutions": ["Exeggcute"]
+    },
+
+    {
+        "name": "Cubone", 
+        "number": 104,
+        "type": ["ground"],
+        "abilities": ["Rock Head", "Lightning Rod", "Battle Armor"],
+        "height": 0.4,
+        "weight": 6.5,
+        "summary": "Cubone is a small, bipedal, dinosaur-like reptilian Pokémon with a light brown hide that covers most of its body, except for its cream-colored belly. Two small claws, one on each hand, serve as its thumbs, and one large nail on each foot make up its toes. It has two small spikes on its back and a short tail. On its head, Cubone wears the skull of its dead mother as a helmet.", 
+        "evolutions": ["Marowak"],
+        "devolutions": []
+    },
+
+    {
+        "name": "Marowak", 
+        "number": 105,
+        "type": ["ground"],
+        "abilities": ["Rock Head", "Lightning Rod", "Battle Armor"],
+        "height": 1,
+        "weight": 45,
+        "summary": "Marowak is a bipedal Pokémon with light brown skin and a cream-colored underside. Two small claws, one on each hand, serve as its thumbs, and one large nail on each foot makes up its toes. It has a short tail with a small spike near the tip. Marowak's head is composed of the skull it once wore as a mask. It can no longer remove the skull, which has become part of its body. The skull has two pointed horns on the back and tiny nostrils on the tip of the snout. Marowak's triangular, brown eyes are also located in the skull.", 
+        "evolutions": [],
+        "devolutions": ["Cubone"]
+    },
+
+    {
+        "name": "Hitmonlee", 
+        "number": 106,
+        "type": ["fighting"],
+        "abilities": ["Limber", "Reckless"],
+        "height": 1.5,
+        "weight": 49.8,
+        "summary": "Hitmonlee is a humanoid Pokémon with an ovoid body. Lacking a distinct neck and head, its upper torso has almond-shaped eyes with black space around them and appears to lack a nose and mouth. Primarily brown, it has cream-colored, segmented arms and legs. Each hand has three fingers and each foot has three clawed toes. The soles of its feet and its ankles have circular, yellow pads. Hitmonlee is an exclusively male species with no female counterpart.", 
+        "evolutions": [],
+        "devolutions": []
+    },
+
+    {
+        "name": "Hitmonchan", 
+        "number": 107,
+        "type": ["fighting"],
+        "abilities": ["Keen Eye", "Iron Fist", "Inner Focus"],
+        "height": 1.4,
+        "weight": 50.2,
+        "summary": "Hitmonchan is a tan, humanoid Pokémon that is exclusively male and has no female counterpart. There are five blunt protrusions on top of its head, and it has structures resembling pads over its shoulders. It appears to be wearing a light purple tunic and skirt, as well as red boxing gloves and light purple boxing shoes. The gloves are actually masses of muscle. In between the tunic and skirt is a small, black area.", 
+        "evolutions": [],
+        "devolutions": []
+    },
+
+    {
+        "name": "Lickitung", 
+        "number": 108,
+        "type": ["normal"],
+        "abilities": ["Own Tempo", "Oblivious", "Cloud Nine"],
+        "height": 1.2,
+        "weight": 65.5,
+        "summary": "Lickitung is a bipedal amphibian Pokémon with a round body and a thick, powerful tail. It has soft, pink skin with curved yellow lines on its belly and a yellow ring marking on each knee. It has a thumb-like claw on each hand and a single large nail on each foot. There is a yellow spot on its palms and the soles of its feet. It has beady eyes and a long, prehensile tongue, with nerves that extend its entire length. The tongue is likely connected to its tail, which twitches and retracts when the tongue is pulled.", 
+        "evolutions": [],
+        "devolutions": []
+    },
+
+    {
+        "name": "Koffing", 
+        "number": 109,
+        "type": ["poison"],
+        "abilities": ["Levitate", "Neutralizing Gas", "Stench"],
+        "height": 0.6,
+        "weight": 1,
+        "summary": "Koffing is a spherical Pokémon filled with toxic gases. It has vacant eyes and a wide mouth that usually has two pointed teeth in the upper jaw.", 
+        "evolutions": ["Weezing"],
+        "devolutions": []
+    },
+
+    {
+        "name": "Weezing", 
+        "number": 110,
+        "type": ["poison"],
+        "abilities": ["Levitate", "Neutralizing Gas", "Stench"],
+        "height": 1.2,
+        "weight": 9.5,
+        "summary": "Weezing is a purple Pokémon consisting of two spherical heads connected by a thin tube with another sphere in the center. The heads have different sizes and features. The left head is larger and has prominent eyebrows, pointed teeth protruding from its lower jaw, and two flat teeth in its upper jaw. The smaller, right head simply has two pointed teeth, one at each corner of its mouth. The larger head has a cream-colored skull-and-crossbones marking below its face, while the smaller head has a ring marking instead. It is covered with many geyser-like protrusions, which usually expel mustard-colored gases. Weezing is said to form when poisonous gases pool and two Koffing fuse over many years. Very rarely, two Koffing can become a Weezing in a short time span because of a sudden mutation. Triplet Weezing have been discovered, although they are extremely rare.", 
+        "evolutions": [],
+        "devolutions": ["Koffing"]
+    },
+
+    {
+        "name": "Rhyhorn", 
+        "number": 111,
+        "type": ["ground", "rock"],
+        "abilities": ["Lightning Rod", "Rock Head", "Reckless"],
+        "height": 1,
+        "weight": 115,
+        "summary": "Rhyhorn is a rhinoceros-like Pokémon with a body covered in gray, rocky plates. Its underside and rear are smooth, and it has four short legs with two claws on each foot. It has a triangular head with narrow, red eyes, two fangs protruding from its upper jaw, small, triangular openings on the upper sides, and a horn on the tip of its snout. A female will have a shorter horn than a male. A spiked ridge runs along its back. In addition to its rocky hide, its bones are a thousand times harder than human bones.", 
+        "evolutions": ["Rhydon"],
+        "devolutions": []
+    },
+
+    {
+        "name": "Rhydon", 
+        "number": 112,
+        "type": ["ground", "rock"],
+        "abilities": ["Lightning Rod", "Rock Head", "Reckless"],
+        "height": 1.9,
+        "weight": 120,
+        "summary": "Rhydon is a large, gray, bipedal Pokémon with features similar to both dinosaurs and rhinoceroses. It has narrow, red eyes and two fangs in its upper jaw. On the tip of Rhydon's snout is a cream-colored horn, which is smaller on a female than on a male. There are several other spikes and projections on its head: on top is a spike that curves forward, two triangular points resembling ears on the sides, a wide, wavy crest under each ear, and spiky ridges on each cheek. It has a cream-colored abdomen divided into strips by thin divots. A rocky plate on its chest slightly overlaps its abdomen. There is a row of spikes down its back and they have a long tail with thin, black stripes.", 
+        "evolutions": [],
+        "devolutions": ["Rhyhorn"]
+    },
+
+    {
+        "name": "Chansey", 
+        "number": 113,
+        "type": ["normal"],
+        "abilities": ["Natural Cure", "Serene Grace", "Healer"],
+        "height": 1.1,
+        "weight": 34.6,
+        "summary": "Chansey is a pink, ovoid Pokémon with stubby arms and dark pink feet. It has tiny eyes and three hair-like growths on each side of its head. The tufts of hair have dark pink tips. On the center of its belly is a dark pink pouch that contains a single white egg. The egg is said to be very nutritious and it lays several new ones every day. Finally, it has a short tail. Chansey is a female-only species with no male counterpart.", 
+        "evolutions": [],
+        "devolutions": []
+    },
+
+    {
+        "name": "Tangela", 
+        "number": 114,
+        "type": ["grass"],
+        "abilities": ["Chlorophyll", "Leaf Guard", "Regenerator"],
+        "height": 1,
+        "weight": 35,
+        "summary": "Tangela is a plant Pokémon covered by periwinkle blue, seaweed-like vines that obscure its face. There is a small opening in the vines that reveals its eyes surrounded by a black space. The vines give Tangela a round shape, but it is unknown what it looks like without them. Its vines are covered in fine hair and are always growing. If damaged or lost, replacements are quickly grown back. There is a pair of pink-red boot-like feet poking out from under the vines, but no visible arms.", 
+        "evolutions": [],
+        "devolutions": []
+    },
+
+    {
+        "name": "Kangaskhan", 
+        "number": 115,
+        "type": ["normal"],
+        "abilities": ["Early Bird", "Scrappy", "Inner Focus"],
+        "height": 2.2,
+        "weight": 80,
+        "summary": "Kangaskhan is a large, bipedal marsupial Pokémon that vaguely resembles a kangaroo. It has a brown hide with several raised patches and a cream-colored belly. It has large, cream-colored ears, narrow, red eyes, and a short, rounded snout with two fangs in the back of its upper jaw. On top of its head is a thick, black plate. There are epaulette-like growths over its shoulders and a row of spikes down its back. It has three clawed digits on each hand and foot and a thick tail. On its belly is a pouch that contains a baby Kangaskhan. Unlike its parent, the baby is light purple and has smooth skin. Kangaskhan is a female-only species with no male counterpart.", 
+        "evolutions": [],
+        "devolutions": []
+    },
+
+    {
+        "name": "Horsea", 
+        "number": 116,
+        "type": ["water"],
+        "abilities": ["Swift Swim", "Sniper", "Damp"],
+        "height": 0.4,
+        "weight": 8,
+        "summary": "Horsea is a light blue, piscine Pokémon that is similar to a seahorse. It has red eyes, a long, tubular mouth, and three spike-like fins on either side of its head. Its ridged belly and single dorsal fin are cream-colored. Highly adept in the water, it uses its dorsal fin to swim in any direction while facing forward. It has a tightly curled tail that it can use as both a balance and an anchor when caught in a strong current. In safer environments, it uses its tail to play with other members of its species.", 
+        "evolutions": ["Seadra"],
+        "devolutions": []
+    },
+
+    {
+        "name": "Seadra", 
+        "number": 117,
+        "type": ["water"],
+        "abilities": ["Swift Swim", "Sniper", "Damp"],
+        "height": 1.2,
+        "weight": 25,
+        "summary": "Seadra is a light blue, piscine Pokémon that is similar to a seahorse with a cream-colored belly covered in rough scales. It has a long, tubular mouth, narrow, black eyes, a fin-like ridge above each eye, and spiny pectoral fins. It also has a large, coiled tail. It has a pair of dorsal fins with sharp, cream-colored tips that exude venom. Seadra's venom is toxic enough to induce numbness and even fainting in humans, but it is still prized among practitioners of traditional medicine.", 
+        "evolutions": [],
+        "devolutions": ["Horsea"]
+    },
+
+    {
+        "name": "Goldeen", 
+        "number": 118,
+        "type": ["water"],
+        "abilities": ["Swift Swim", "Water Veil", "Lightning Rod"],
+        "height": 0.6,
+        "weight": 15,
+        "summary": "Goldeen is a white piscine Pokémon with orange markings. It has circular blue eyes with orange lids and prominent pink lips. On its forehead is a large horn, which is larger on a male than on a female. It has a small, wavy dorsal fin surrounded by an orange patch and long pectoral fins with orange markings at the bases. Goldeen's billowing tail fin is orange around the base and turns white toward the edges. Its tail is admired by many for its beauty and similarity to a ballroom dress.", 
+        "evolutions": ["Seaking"],
+        "devolutions": []
+    },
+
+    {
+        "name": "Seaking", 
+        "number": 119,
+        "type": ["water"],
+        "abilities": ["Swift Swim", "Water Veil", "Lightning Rod"],
+        "height": 1.3,
+        "weight": 39,
+        "summary": "Seaking is a primarily orange-and-white, piscine Pokémon. It has round, dark eyes, prominent pink lips, two small fangs, and a cream-colored horn in the center of its forehead. A female Seaking has a smaller horn than a male. Most of its body is orange with a patch of white under its mouth and along its underside. There are several black markings on its body: two thick lines under each eye, a large wavy patch on its back, and several speckles near its tail. It has billowing pectoral fins and a pair of tail fins shaped like butterfly wings, all of which are white speckled with black. However, its dorsal fin is pure white and rigid.", 
+        "evolutions": [],
+        "devolutions": ["Goldeen"]
+    },
+
+    {
+        "name": "Staryu", 
+        "number": 120,
+        "type": ["water"],
+        "abilities": ["Illuminate", "Natural Cure", "Analytic"],
+        "height": 0.8,
+        "weight": 34.5,
+        "summary": "Staryu is a golden-brown, echinoderm Pokémon with faceted skin and five appendages. These appendages surround an exterior organ called the core. The core resembles a golden metal casing with a red gem in the center, which is held in place by a golden ring looped around Staryu's lower left point. Staryu have no jointed limbs to speak of, instead using their psychic powers to move themselves around. If any of Staryu's appendages are lost or eaten by predators like Lumineon, it is unharmed and can grow them back with ease provided the core is still intact.", 
+        "evolutions": ["Starmie"],
+        "devolutions": []
+    },
+
+    {
+        "name": "Starmie", 
+        "number": 121,
+        "type": ["water"],
+        "abilities": ["Illuminate", "Natural Cure", "Analytic"],
+        "height": 1.1,
+        "weight": 80,
+        "summary": "Starmie is an echinoderm Pokémon that resembles two violet starfish with faceted skin and five appendages each. The front starfish has a golden formation in the center. In the center of the golden casing is its red jewel core, an exterior organ which can glow in seven colors and has developed to resemble a cut precious stone. The second starfish is semi-attached to the back of the first and can spin 360 degrees. This rotational action is how Starmie swims through the ocean.", 
+        "evolutions": [],
+        "devolutions": ["Staryu"]
+    },
+
+    {
+        "name": "Mr. Mime", 
+        "number": 122,
+        "type": ["psychic", "fairy"],
+        "abilities": ["Soundproof", "Filter", "Technician"],
+        "height": 1.3,
+        "weight": 54.5,
+        "summary": "Mr. Mime is a bipedal, humanoid Pokémon. Blue growths resembling clown hair extend from the sides of its pale pink head, and there is a magenta circle on each cheek. Its jaw is curved inward, resembling the mouth of a wooden dummy. It has a round, white body with a magenta spot in the middle, light pink arms and legs that connect to its body via magenta spheres, and small white coverings over its knees. Its white hands resemble gloves with magenta pads on the tips of its white fingers and its dark blue feet curl upward at the tips.", 
+        "evolutions": [],
+        "devolutions": []
+    },
+
+    {
+        "name": "Scyther", 
+        "number": 123,
+        "type": ["bug", "flying"],
+        "abilities": ["Swarm", "Technician", "Steadfast"],
+        "height": 1.5,
+        "weight": 56,
+        "summary": "Scyther is a bipedal, insectoid Pokémon. Its body is primarily green and has a thin, cream-colored section between its head, thorax, and abdomen. Female Scyther have larger abdomens than male Scyther. Its reptilian head has two narrow, triangular eyes and three blunt horns extending from its forehead. Its arms end in large, white scythes, which it uses for both hunting and fighting. Two pairs of cream-colored wings extend from its back. While these wings do allow Scyther to fly, it rarely does so. Scyther's thighs have large, upward-pointing spikes. Its feet are tall, rounded, and conical, almost extending to its thighs; each foot ends in three small, white claws on its front side.", 
+        "evolutions": [],
+        "devolutions": []
+    },
+
+    {
+        "name": "Jynx", 
+        "number": 124,
+        "type": ["ice", "psychic"],
+        "abilities": ["Oblivious", "Forewarn", "Dry Skin"],
+        "height": 1.4,
+        "weight": 40.6,
+        "summary": "Jynx is a bipedal, humanoid Pokémon that resembles a woman. It has a purple face, pink lips, saucer-like eyes, and long blonde hair. It wears a red gown with two gold circlets on the chest.", 
+        "evolutions": [],
+        "devolutions": []
+    },
+
+    {
+        "name": "Electabuzz", 
+        "number": 125,
+        "type": ["electric"],
+        "abilities": ["Static", "Vital Spirit"],
+        "height": 1.1,
+        "weight": 30,
+        "summary": "Electabuzz is a slightly humanoid Pokémon with a few feline traits. It has antennae with bulbous tips where its ears should be, two long tufts of fur on top of its head, small eyes, and two large fangs in its upper jaw. It is covered in yellow fur with many black stripes. There is a large, lightning bolt-shaped stripe on Electabuzz's chest, a V-shaped stripe on its forehead, one stripe on its side, a thick stripe down its back, two bands on each leg, several broken bands on each arm, and many rings around its long tail. There are three clawed toes on each of its feet, two in front and one in back, and five fingers on each hand.", 
+        "evolutions": [],
+        "devolutions": []
+    },
+
+    {
+        "name": "Magmar", 
+        "number": 126,
+        "type": ["fire"],
+        "abilities": ["Flame Body", "Vital Spirit"],
+        "height": 1.3,
+        "weight": 44.5,
+        "summary": "Magmar is a bipedal Pokémon that has a red body with yellow flame designs along the bottom half. It has a puckered tan beak, small eyes, and two lumps on its forehead with a yellow flame on top of each one. Rigid, red scales cover its arms and it has five, clawed fingers on each hand. Magmar's shoulders and thighs are yellow, and its red feet have two, clawed toes each. It has black, metal shackles around its neck and ankles. Down its back is a row of red spikes, and there is a flame at the tip of its tapering, yellow tail.", 
+        "evolutions": [],
+        "devolutions": []
+    },
+
+    {
+        "name": "Pinsir", 
+        "number": 127,
+        "type": ["bug"],
+        "abilities": ["Hyper Cutter", "Mold Breaker", "Aerilate"],
+        "height": 1.5,
+        "weight": 55,
+        "summary": "Pinsir is a bipedal, coleopteran insectoid Pokémon with a wide, dull-brown body divided into segments by thin lines. On top of its head is a large pair of gray, spiky pincers on top of its head. In its mouth are many long, flat teeth arranged horizontally, and it has triangular eyes. Capable of seeing color to some degree, Pinsir appears to be attracted to the color green. Its legs are short and thick, while its arms are long and thin. It has three claws on each hand and foot; two of its toes face forward and one backward.", 
+        "evolutions": [],
+        "devolutions": []
+    },
+
+    {
+        "name": "Tauros", 
+        "number": 128,
+        "type": ["normal"],
+        "abilities": ["Intimidate", "Anger Point", "Sheer Force"],
+        "height": 1.4,
+        "weight": 88.4,
+        "summary": "Tauros is a quadrupedal, bovine Pokémon. It is covered in light brown fur with a thick, darker brown mane around the neck. It has a hump on its shoulders, a rounded muzzle with a dark brown nose, small, triangular eyes, three gray bumps running vertically down its forehead, and a pair of curved, gray horns growing from atop its head. Each of its three black tails has a tuft of fur on the end, and there is a single gray hoof on each foot. Tauros is a male-only species.", 
+        "evolutions": [],
+        "devolutions": []
+    },
+
+    {
+        "name": "Magikarp", 
+        "number": 129,
+        "type": ["water"],
+        "abilities": ["Swift Swim", "Rattled"],
+        "height": 0.9,
+        "weight": 10,
+        "summary": "Magikarp is a piscine Pokémon with large, heavy reddish-orange scales. It has large, vacant eyes and pink lips. Its pectoral and tail fins are white. On its back is a stiff, three-peaked yellow fin, resembling a crown; there is an identical fin on its underside. It also has long barbels. The barbels are white on a female and pale-yellow on a male.", 
+        "evolutions": ["Gyarados"],
+        "devolutions": []
+    },
+
+    {
+        "name": "Gyarados", 
+        "number": 130,
+        "type": ["water"],
+        "abilities": ["Intimidate", "Moxie"],
+        "height": 6.5,
+        "weight": 235,
+        "summary": "Gyarados is a piscine, draconic Pokémon with a long serpentine body covered in slightly overlapping scales. It is mostly blue with a yellow underbelly, and it has a row of yellow spots down each side. Its mouth is very large and gaping, bearing four pointed teeth and yellow lips. It has one pair of barbel and a small white fin on each side of its face. The barbels are white on a female and blue on a male. It has small, red eyes, a three-pointed, dark blue crest on its head, and four white, spiky dorsal fins. Gyarados's tail fin is similar in structure to the crest on its head, except with a thin, white fin spread between the points.", 
+        "evolutions": [],
+        "devolutions": ["Magikarp"]
+    },
+
+    {
+        "name": "Lapras", 
+        "number": 131,
+        "type": ["water", "ice"],
+        "abilities": ["Water Absorb", "Shell Armor", "Hydration"],
+        "height": 2.5,
+        "weight": 220,
+        "summary": "Lapras is a marine reptilian Pokémon that resembles a plesiosaur. It has a blue hide with darker blue spots and a cream-colored underside. It has large brown eyes, a short horn on its forehead, and tightly curled ears. It has a long neck and four flippers. The foremost flippers are larger than the hind. On its back is a heavy, gray shell covered in blunt knobs.", 
+        "evolutions": [],
+        "devolutions": []
+    },
+
+    {
+        "name": "Ditto", 
+        "number": 132,
+        "type": ["normal"],
+        "abilities": ["Limber", "Imposter"],
+        "height": 0.3,
+        "weight": 4,
+        "summary": "In its natural state, Ditto is a light-purple or pink blob-like Pokémon with vestigial facial features. It is often referred to as amorphous, but has a relatively consistent appearance in official artwork, including two small nubs on its 'head', a few soft lumps at its base, and two pseudopod-like protrusions in place of arms. The face consists of beady eyes and a simple mouth; almost always pulled into a smile.", 
+        "evolutions": [],
+        "devolutions": []
+    },
+
+    {
+        "name": "Eevee", 
+        "number": 133,
+        "type": ["normal"],
+        "abilities": ["Run Away", "Adaptability", "Anticipation"],
+        "height": 0.3,
+        "weight": 6.5,
+        "summary": "Eevee is a small, mammalian, quadrupedal Pokémon with primarily brown fur. The tip of its bushy tail and its large furry collar are cream-colored. It has short, slender legs with three small toes and a pink paw pad on each foot. Eevee has brown eyes, long pointed ears with dark brown interiors, and a small black nose.", 
+        "evolutions": ["Vaporeon", "Jolteon", "Flareon"],
+        "devolutions": []
+    },
+
+    {
+        "name": "Vaporeon", 
+        "number": 134,
+        "type": ["water"],
+        "abilities": ["Water Absorb", "Hydration"],
+        "height": 1,
+        "weight": 63.9,
+        "summary": "Vaporeon is a Pokémon that shares physical traits with both aquatic and land animals. Its body is light blue with a dark blue marking around its head and a spiky ridge down its spine. It has black eyes and a tiny black nose. There is a white fin encircling its neck and three fins with cream-colored webbing on its head. Two of these fins are on either side of its head, similar to ears; and one is directly on top of its head, resembling a dorsal fin. Vaporeon is a quadruped with three small toes on each foot and dark blue paw pads on the hind feet.", 
+        "evolutions": [],
+        "devolutions": ["Eevee"]
+    },
+
+    {
+        "name": "Jolteon", 
+        "number": 135,
+        "type": ["electric"],
+        "abilities": ["Volt Absorb", "Quick Feet"],
+        "height": 0.8,
+        "weight": 24.5,
+        "summary": "Jolteon is a quadrupedal, mammalian Pokémon. It is covered in yellow fur with a spiky fringe around its tail and a white ruff around its neck. Its ears are large and pointed with black interiors, and its eyes and small nose are black. It has slender legs and small paws, each with three toes and a pink paw-pad.", 
+        "evolutions": [],
+        "devolutions": ["Eevee"]
+    },
+
+    {
+        "name": "Flareon", 
+        "number": 136,
+        "type": ["fire"],
+        "abilities": ["Flash Fire", "Guts"],
+        "height": 0.9,
+        "weight": 25,
+        "summary": "Flareon is a mammalian, quadrupedal Pokémon covered in short, reddish-orange fur. It has long ears with black interiors, dark eyes, and a small black nose. There are three small toes and a yellow paw pad on each foot. Fluffy yellow fur forms a small tuft on its head, as well as its bushy tail and a mane around its chest and neck.", 
+        "evolutions": [],
+        "devolutions": ["Eevee"]
+    },
+
+    {
+        "name": "Porygon", 
+        "number": 137,
+        "type": ["normal"],
+        "abilities": ["Trace", "Download", "Analytic"],
+        "height": 0.8,
+        "weight": 36.5,
+        "summary": "Porygon is an artificial Pokémon made completely out of programming code. It has a pink, polyhedral head that ends in a blue beak and has hexagonal eyes, and it has a pink polyhedral body with a blue front, blue triangular prism feet, and a blue rectangular prism tail. In 3D games, such as Pokémon Stadium, it can open its beak and can detach its limbs and head from its torso.", 
+        "evolutions": [],
+        "devolutions": []
+    },
+
+    {
+        "name": "Omanyte", 
+        "number": 138,
+        "type": ["rock", "water"],
+        "abilities": ["Swift Swim", "Shell Armor", "Weak Armor"],
+        "height": 0.4,
+        "weight": 7.5,
+        "summary": "Omanyte is a small extinct cephalopod mollusk Pokémon similar to an ammonite or nautilus. It has a sky blue body with ten tentacles and a pale yellow, helix-spiraled shell on its back. The shell's rim has two circular indents where Omanyte's large saucer-like eyes protrude. If attacked or threatened, it quickly withdraws into its hard shell.", 
+        "evolutions": ["Omastar"],
+        "devolutions": []
+    },
+
+    {
+        "name": "Omastar", 
+        "number": 139,
+        "type": ["rock", "water"],
+        "abilities": ["Swift Swim", "Shell Armor", "Weak Armor"],
+        "height": 1,
+        "weight": 35,
+        "summary": "Omastar is a cephalopod mollusk Pokémon similar to an ammonite or nautilus. Its sky blue body has several tentacles; the tentacles toward the front are shorter and thicker than those in the back. There is a pale yellow, helix spiraled shell on its back, which serves to defend it from critical blows. Several sharp spikes line the shell's midsection from the front to about halfway down its back. The shell's rim has two circular indents where Omastar's eyes are visible. Its eyes have yellow sclerae and vertically-slit pupils. It has an oval mouth with a four-sectioned, fang-like beak.", 
+        "evolutions": [],
+        "devolutions": ["Omanyte"]
+    },
+
+    {
+        "name": "Kabuto", 
+        "number": 140,
+        "type": ["rock", "water"],
+        "abilities": ["Swift Swim", "Battle Armor", "Weak Armor"],
+        "height": 0.5,
+        "weight": 11.5,
+        "summary": "Kabuto is a small arthropod Pokémon resembling a horseshoe crab. It is mostly flat with a protective, brown shell covering its body. There are two small, black eyes on top of its shell, which it uses for sight when it hides on the ocean floor. Underneath the shell is a black space that hides the structure of its main body. Only its four short, yellow legs and a second pair of luminescent red eyes are visible on its underside. In its original time, Kabuto was prominently found on beaches, likely aided by its fast and powerful swimming ability. While it is commonly believed to be extinct, isolated populations of Kabuto have been unchanged for 300 million years.", 
+        "evolutions": ["Kabutops"],
+        "devolutions": []
+    },
+
+    {
+        "name": "Kabutops", 
+        "number": 141,
+        "type": ["rock", "water"],
+        "abilities": ["Swift Swim", "Battle Armor", "Weak Armor"],
+        "height": 1.3,
+        "weight": 40.5,
+        "summary": "Kabutops is a bipedal prehistoric arthropod Pokémon with a skeletal, well-armored build. It has a flat, half-circular head with a point on each side and two small eyes on the front. It is mostly brown, except for its light gray chest and abdomen. There is a ridge down its back with three flat spines on either side and it has a flat, pointed tail. Instead of hands, its forearms have large, sharp, gray scythes. Its thin legs are brown lead to small feet with two large gray claws.", 
+        "evolutions": [],
+        "devolutions": ["Kabuto"]
+    },
+
+    {
+        "name": "Aerodactyl", 
+        "number": 142,
+        "type": ["rock", "flying"],
+        "abilities": ["Rock Head", "Pressure", "Unnerve"],
+        "height": 1.8,
+        "weight": 59,
+        "summary": "Aerodactyl is a reptilian, bipedal prehistoric Pokémon that resembles a pterosaur with several draconic features. It has small sharply pointed ears, narrow dark green eyes, a ridged snout, a gaping mouth, and a strong lower jaw full of serrated fangs. Its body is covered in light blue-gray skin and it has large, violet membranous wings. The clawed hands at the end of each wing allow it to grasp objects. There is a hump-like ridge with a spike on its back, and it has a strong tail with an arrow-shaped tip. Its talon-like feet have two toes in front and one in the back, and are capable of scooping up and tightly clutching its prey in flight.", 
+        "evolutions": [],
+        "devolutions": []
+    },
+
+    {
+        "name": "Snorlax", 
+        "number": 143,
+        "type": ["normal"],
+        "abilities": ["Immunity", "Thick Fat"],
+        "height": 2.1,
+        "weight": 460,
+        "summary": "Snorlax is a huge, bipedal, dark blue-green mammalian Pokémon with a cream-colored face, belly, and feet. Its body is composed of mostly its belly, as its limbs are comparatively small. Its head is large with small, pointed ears, and two pointed teeth protruding from its lower jaw. It has round feet, which both have three claws and a circular brown paw pad, and short arms with five claws on each hand. Snorlax's bulk makes it the heaviest Normal type.", 
+        "evolutions": [],
+        "devolutions": []
+    },
+
+    {
+        "name": "Articuno", 
+        "number": 144,
+        "type": ["ice", "flying"],
+        "abilities": ["Pressure", "Snow Cloak"],
+        "height": 1.7,
+        "weight": 55.4,
+        "summary": "Articuno is a large avian Pokémon with predominantly sky blue plumage and wings said to be made of ice. On its forehead is a crest that consists of three, darker blue rhombus-shaped feathers. It has circular red eyes, a short gray beak, and long, thin gray legs. Each foot has three forward-facing digits and one facing backward. On its chest is a mass of white, downy feathers. Its long, streamer-like tail is longer than its body and the same shade of blue as its crest.", 
+        "evolutions": [],
+        "devolutions": []
+    },
+
+    {
+        "name": "Zapdos", 
+        "number": 145,
+        "type": ["electric", "flying"],
+        "abilities": ["Pressure", "Static", "Lightning Rod"],
+        "height": 1.6,
+        "weight": 52.6,
+        "summary": "Zapdos is a large, avian Pokémon with predominantly yellow plumage. It has small, triangular eyes with black around them and a long, thin, light orange beak. Its wings and tail are a mass of spiky feathers and there are black feathers covering the back of its wings and inner tail feathers. A large crest of spiked feathers surrounds its head. Its thighs are tan, and it has thin, light orange legs. It has feet with three forward-facing toes and one backward-facing toe; each toe has a short talon.", 
+        "evolutions": [],
+        "devolutions": []
+    },
+
+    {
+        "name": "Moltres", 
+        "number": 146,
+        "type": ["fire", "flying"],
+        "abilities": ["Pressure", "Flame Body"],
+        "height": 2,
+        "weight": 60,
+        "summary": "Moltres is a large, avian Pokémon with a light yellow plumage. It has a long, flowing head crest and a billowing tail, both made of reddish flames. Additionally, its wings are also shrouded in fiery plumage. It has a long, thin neck, a pointed, brown beak, and small, triangular eyes. Its thin, brown legs have anisodactyl feet, with three forward-facing digits and one facing backward.", 
+        "evolutions": [],
+        "devolutions": []
+    },
+
+    {
+        "name": "Dratini", 
+        "number": 147,
+        "type": ["dragon"],
+        "abilities": ["Shed Skin", "Marvel Scale"],
+        "height": 1.8,
+        "weight": 3.3,
+        "summary": "Dratini is a reptilian Pokémon with a blue serpentine body and a white underside. It has white, three-pronged fins on the sides of its head and a white bump on its forehead, which is its horn growing. Above its round, white snout are oval, purple eyes.", 
+        "evolutions": ["Dragonair", "Dragonite"],
+        "devolutions": []
+    },
+
+    {
+        "name": "Dragonair", 
+        "number": 148,
+        "type": ["dragon"],
+        "abilities": ["Shed Skin", "Marvel Scale"],
+        "height": 4,
+        "weight": 16.5,
+        "summary": "Dragonair is a long, serpentine reptilian Pokémon with sky blue scales and a white underside. It has a rounded snout, oval purple eyes, and a small, white horn on its forehead. On each side of its head is a small, stylized wing, which is white and curves into a swirl at the base. Three blue, crystal orbs adorn its body: one on its neck and two on its tail.", 
+        "evolutions": ["Dragonite"],
+        "devolutions": ["Dratini"]
+    },
+
+    {
+        "name": "Dragonite", 
+        "number": 149,
+        "type": ["dragon", "flying"],
+        "abilities": ["Inner Focus", "Multiscale"],
+        "height": 2.2,
+        "weight": 210,
+        "summary": "Dragonite is a draconic, bipedal reptilian Pokémon with light orange skin. It has large, grayish-green eyes and a round snout with small nostrils. A pair of long, thin antennae sprout from the top of its head with a small horn set between them. Its striated underbelly is cream-colored and extends from its neck to the tip of its long, tapering tail. It has thick arms and legs ending in three claws each. The leg joints are well defined, while its arms have a smooth, rounded appearance. Dragonite's wings are small relative to its body with teal wing membranes.", 
+        "evolutions": [],
+        "devolutions": ["Dratini", "Dragonair"]
+    },
+
+    {
+        "name": "Mewtwo", 
+        "number": 150,
+        "type": ["psychic"],
+        "abilities": ["Pressure", "Unnerve"],
+        "height": 2,
+        "weight": 122,
+        "summary": "Mewtwo is an artificial Pokémon. It is a bipedal, humanoid Pokémon with some feline features. Its body is primarily gray with a long, purple tail and a large purple underbelly. On top of its head are two short, blunt, ear-like horns, and it has purple eyes. A tube extends from the back of its skull to the top of its spine, bypassing its neck. It has a defined chest and shoulders, which resemble a breastplate. The three digits on each hand and foot have spherical tips. Its tail is thick at the base but thins before ending in a small bulb.", 
+        "evolutions": [],
+        "devolutions": []
+    },
+
+    {
+        "name": "Mew", 
+        "number": 151,
+        "type": ["psychic"],
+        "abilities": ["Synchronize"],
+        "height": 0.4,
+        "weight": 4,
+        "summary": "Mew is a pink, bipedal Pokémon with mammalian features. It has a rounded, wide snout; triangular ears; and large, blue eyes. It has short arms with three-fingered paws and large hind paws with oval markings on the soles. Its tail is long and thin with an ovoid tip. Its fur is so fine and thin, it can only be seen under a microscope.", 
+        "evolutions": [],
+        "devolutions": []
     }
 ]
 
