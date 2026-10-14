@@ -1,5 +1,27 @@
+.pokemon-list {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  padding: 10px;
+  gap: 5px;
+}
+
 .pokemon-card {
-  max-width: 320px;
+  padding: 10px;
+}
+
+/*pokemon type labels*/
+.type-badge {
+  color: white;
+  padding: 0.25rem 0.75rem;
+  border-radius: 999px;
+  font-size: 0.8rem;
+  font-weight: 600;
+}
+
+.pokemon-types {
+  display: flex;
+  gap: 0.5rem;
+  flex-wrap: wrap;
 }
 
 /*pokemon type colours*/
