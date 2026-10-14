@@ -29,14 +29,20 @@ const typeColors: Record<string, string> = {
 
 const PokemonList = ({ data, onSelect }: Props) => {
     return (
-        <div className="pokemon-list">
+        <div>
+            <div className="intro">
+                <h1>Pokedex</h1>
+                <p>Basic Pokedex of the Kanto region original 151.</p>
+            </div>
+
+            <div className="pokemon-list">
             {data.map(p => (
                 <div key={p.name} className="pokemon-card" onClick={() => onSelect(p)}>
                     <img className="pokemon-card_img" src={`../src/assets/pokemon/${p.name}.png`} alt={p.name} width="200px" height="200px"/>
                     <div className="pokemon-card_body">
                         <div className="">
-                            <h3 className="">{p.name}</h3>
-                            <div>
+                            <h3 className="pokemon-card_body_title">{p.name}</h3>
+                            <div className="pokemon-card_body_number">
                                 <small className="text-muted">{p.number}</small>
                             </div>
 
@@ -51,22 +57,24 @@ const PokemonList = ({ data, onSelect }: Props) => {
                                     </span>
                                 ))}    
                             </div>
-                            
-                            <p>{p.type.join(", ")}</p>
 
                             <div className="pokemon-card_footer">
                                 <ul>
-                                    <li>{p.abilities}</li>
+                                    <li>{p.abilities.join(", ")}</li>
                                     <li>{p.height}</li>
                                     <li>{p.weight}</li>
                                 </ul>
                                 <p>{p.summary}</p>
+                                <a className="btn btn-success" href="#">View more</a>
                             </div>
                         </div>
                     </div>
                 </div>
             ))}
         </div>
+
+    </div>
+        
     );
 };
 
