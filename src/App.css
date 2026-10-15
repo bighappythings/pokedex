@@ -49,6 +49,11 @@
   flex-wrap: wrap;
 }
 
+/*pokemon details page*/
+.pokemon-detail {
+  margin: 20px;
+}
+
 /*pokemon type colours*/
 .bug {
   background: #91a119;

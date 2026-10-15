@@ -74,11 +74,9 @@ const PokemonList = ({ data, onSelect }: Props) => {
                             </div>
 
                             <div className="pokemon-card_footer">
-                                <ul>
-                                    <li>{p.abilities.join(", ")}</li>
-                                    <li>{p.height}</li>
-                                    <li>{p.weight}</li>
-                                </ul>
+                                <p><strong>Attributes:</strong> {p.abilities.join(", ")}</p>
+                                <p><strong>Height:</strong> {p.height}</p>
+                                <p><strong>Weight:</strong> {p.weight}</p>
                                 <p>{p.summary}</p>
                                 <a className="btn btn-success" href="#">View more</a>
                             </div>

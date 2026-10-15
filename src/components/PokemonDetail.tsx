@@ -7,7 +7,19 @@ interface Props {
 const PokemonDetail = ({ pokemon }: Props) => {
     return (
         <div className="pokemon-detail">
-            <img src={pokemon.name} alt={pokemon.name} />
+             <img className="pokemon-card_img" 
+                        src={
+                            pokemon.name === "Nidoran♀"
+                            ? "../src/assets/pokemon/nidoran-female.png" 
+                            : pokemon.name === "Nidoran♂"
+                            ? "../src/assets/pokemon/nidoran-male.png"
+                            : pokemon.name === "Mr Mime"
+                            ? "../src/assets/pokemon/Mr_Mime.png"
+                            : `../src/assets/pokemon/${pokemon.name}.png`} 
+                        alt={pokemon.name} 
+                        width="200px" 
+                        height="200px"
+                    />
             <h2>{pokemon.name}</h2>
 
             <p><strong>Types:</strong> {pokemon.type.join(", ")}</p>
