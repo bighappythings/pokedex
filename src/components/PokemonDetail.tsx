@@ -64,26 +64,32 @@ const PokemonDetail = ({ pokemon }: Props) => {
 
             <p>{pokemon.summary}</p>
 
+            <h3>Evolutions</h3>
+
             {pokemon.evolutions?.length > 0 && (
                 <div className="evolutions-card">
-                    {pokemon.evolutions.map(evolutions => (
-                        <img 
-                            key={evolutions}
-                            className="evolutions-img"
-                            src={`../src/assets/pokemon/${evolutions}.png`}
-                            width="100px"
-                            height="100px"
-                        />  
+                    {pokemon.evolutions.map((evolution, index) => (
+                        <div key={evolution}>
+                            <div className="evolution-group">
+                                <img 
+                                    className="evolutions-img"
+                                    src={`../src/assets/pokemon/${evolution}.png`}
+                                    width="100px"
+                                    height="100px"
+                                /> 
+                                <p><a href="#">{evolution}</a></p> 
+                            </div>
 
-                    ))}
-
-                    <div className="evolution">
-                        <p><strong>Evolutions:</strong> {pokemon.evolutions.join (" → ")}</p>
-                    </div>
-                    
+                            {index < pokemon.evolutions.length - 1 && (
+                                <span className="evolutions-arrow">→</span>
+                            )}
+                        </div>
+                    ))}                    
                 </div>
+
+               
             )} 
-            
+
         </div>
     );
 };
