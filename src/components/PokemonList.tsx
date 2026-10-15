@@ -19,7 +19,7 @@ const typeColors: Record<string, string> = {
     grass: "#28a745",
     ground: "#915121",
     ice: "#17a2b8",
-    normal: "#f8f9fa",
+    normal: "#dce0e3",
     poison: "#9141c1",
     psychic: "#ef4179",
     rock: "#afa981",
@@ -38,20 +38,35 @@ const PokemonList = ({ data, onSelect }: Props) => {
             <div className="pokemon-list">
             {data.map(p => (
                 <div key={p.name} className="pokemon-card" onClick={() => onSelect(p)}>
-                    <img className="pokemon-card_img" src={`../src/assets/pokemon/${p.name}.png`} alt={p.name} width="200px" height="200px"/>
+                    <img className="pokemon-card_img" 
+                        src={
+                            p.name === "Nidoran♀"
+                            ? "../src/assets/pokemon/nidoran-female.png" 
+                            : p.name === "Nidoran♂"
+                            ? "../src/assets/pokemon/nidoran-male.png"
+                            : p.name === "Mr Mime"
+                            ? "../src/assets/pokemon/Mr_Mime.png"
+                            : `../src/assets/pokemon/${p.name}.png`} 
+                        alt={p.name} 
+                        width="200px" 
+                        height="200px"
+                    />
                     <div className="pokemon-card_body">
-                        <div className="">
-                            <h3 className="pokemon-card_body_title">{p.name}</h3>
+                        <div>
                             <div className="pokemon-card_body_number">
-                                <small className="text-muted">{p.number}</small>
+                                <h2 className="text-muted">{p.number}</h2>
                             </div>
+                            <h2 className="pokemon-card_body_title">{p.name}</h2>
+                            
 
-                            <div className="mt-20 justify-content-between">
+                            <div className="pokemon-card_body_type mt-20 justify-content-between">
                                 {p.type.map(type => (
                                     <span
                                         key={type}
                                         className="type-badge"
-                                        style={{ backgroundColor: typeColors[type] }}
+                                        style={{ 
+                                            backgroundColor: typeColors[type],
+                                            color: type === "normal" ? "#000000" : "#ffffff" }}
                                     >
                                     {type}
                                     </span>

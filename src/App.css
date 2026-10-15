@@ -1,3 +1,6 @@
+.intro {
+  margin: 20px;
+}
 .pokemon-list {
   display: grid;
   grid-template-columns: repeat(5, 1fr);
@@ -6,23 +9,38 @@
 }
 
 .pokemon-card {
-  padding: 10px;
+  margin-bottom: 20px;
+}
+.card.card-product:hover,
+.card.card-product:focus {
+  outline: 5px solid #000000;
 }
 
 .pokemon-card_body_title {
   display: inline-block;
+  margin-left: 10px;
+  margin-top: 10px;
+  margin-bottom: 20px;
 }
 .pokemon-card_body_number {
   display: inline-block;
 }
 
+.pokemon-card_body_type {
+  margin-bottom: 20px;
+}
+
 /*pokemon type labels*/
 .type-badge {
   color: white;
-  padding: 0.25rem 0.75rem;
+  padding: 5px;
   border-radius: 999px;
-  font-size: 0.8rem;
+  font-size: 16px;
   font-weight: 600;
+  margin-right: 5px;
+  display: inline-block;
+  width: 100px;
+  text-align: center;
 }
 
 .pokemon-types {

@@ -1487,7 +1487,7 @@
     },
 
     {
-        "name": "Mr. Mime", 
+        "name": "Mr Mime", 
         "number": 122,
         "type": ["psychic", "fairy"],
         "abilities": ["Soundproof", "Filter", "Technician"],
