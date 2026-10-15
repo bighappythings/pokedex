@@ -6,8 +6,6 @@ import type { Pokemon } from './types/Pokemon';
 import PokemonList from "./components/PokemonList";
 import PokemonDetail from "./components/PokemonDetail";
 
-import ProductCard from './components/ProductCard';
-
 function App(){
   const [selected, setSelected] = useState<Pokemon | null>(null);
 
@@ -21,10 +19,7 @@ function App(){
       {selected && (
         <PokemonDetail pokemon={selected} />
       )}
-
-      <ProductCard pokemonName="Bulbasaur" pokemonNumber="001" pokemonType="grass" pokemonType2="poison"/>
-
-  </div>
+    </div>
   );  
 }
 
